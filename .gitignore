@@ -1,0 +1,11 @@
+# Local / generated
+backend/data/bridge.db
+backend/.env
+**/__pycache__/
+.venv/
+.pytest_cache/
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/next-env.d.ts
+frontend/tsconfig.tsbuildinfo

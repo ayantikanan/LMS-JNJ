@@ -1,0 +1,3571 @@
+{
+ "_about": "DEMO DATA for the LMS Benefit-Risk Interaction Dashboard. Placeholder values for items blocked on LMS stakeholder input. Replace with the LMS team's real lists before any real use. Names marked (demo) are fictional.",
+ "reference_date": "2026-04-30",
+ "new_material_window_days": 45,
+ "product_ta": {
+  "Balversa/ Erfandel": "Oncology",
+  "Carvykti": "Oncology",
+  "Erleada": "Oncology",
+  "Rybrevant": "Oncology",
+  "Lazertinib": "Oncology",
+  "Talquetamab": "Oncology",
+  "Imbruvica": "Oncology",
+  "Tecvayli": "Oncology",
+  "Darzalex/ Dalinvi": "Oncology",
+  "Zytiga": "Oncology",
+  "TAR-200": "Oncology",
+  "Oncology": "Oncology",
+  "Tremfya": "Immunology",
+  "Stelara": "Immunology",
+  "Icotrokinra": "Immunology",
+  "Nipocalimab": "Immunology",
+  "Simponi": "Immunology",
+  "Remicade": "Immunology",
+  "Immunology": "Immunology",
+  "Spravato": "Neuroscience",
+  "Trevicta / Invega Trinza (PP3M)": "Neuroscience",
+  "Xeplion / Invega Sustenna (PP1M)": "Neuroscience",
+  "Topiramate": "Neuroscience",
+  "Neurosciences": "Neuroscience",
+  "Opsumit/ Zependo": "Cardiopulmonary (PAH)",
+  "Uptravi": "Cardiopulmonary (PAH)",
+  "Bosentan": "Cardiopulmonary (PAH)",
+  "PAH": "Cardiopulmonary (PAH)",
+  "Invokana": "Established Products",
+  "Established Products": "Established Products",
+  "General": "Cross-TA (General)"
+ },
+ "stakeholders": [
+  {
+   "code": "MAF",
+   "name": "Medical Affairs",
+   "type": "Internal",
+   "gap_alert_days": 90
+  },
+  {
+   "code": "Reg.",
+   "name": "Regulatory Affairs",
+   "type": "Internal",
+   "gap_alert_days": 120
+  },
+  {
+   "code": "Marketing",
+   "name": "Marketing",
+   "type": "Internal",
+   "gap_alert_days": 90
+  },
+  {
+   "code": "Sales",
+   "name": "Sales",
+   "type": "Internal",
+   "gap_alert_days": 120
+  },
+  {
+   "code": "CQ",
+   "name": "Compliance & Quality",
+   "type": "Internal",
+   "gap_alert_days": 180
+  },
+  {
+   "code": "HEMAR",
+   "name": "Health Economics, Market Access & Reimbursement",
+   "type": "Internal",
+   "gap_alert_days": 180
+  },
+  {
+   "code": "CVT/IBVT",
+   "name": "Country Value Team / Integrated Brand Value Team",
+   "type": "Internal",
+   "gap_alert_days": 120
+  },
+  {
+   "code": "GCO/MAO",
+   "name": "Global Clinical Operations / Medical Affairs Operations",
+   "type": "Internal",
+   "gap_alert_days": 180
+  },
+  {
+   "code": "GMO",
+   "name": "Global Medical Organization",
+   "type": "Internal",
+   "gap_alert_days": 180
+  },
+  {
+   "code": "MSO",
+   "name": "Medical Safety Officer",
+   "type": "Internal",
+   "gap_alert_days": 120
+  },
+  {
+   "code": "Board",
+   "name": "Leadership / Board",
+   "type": "Internal",
+   "gap_alert_days": 365
+  },
+  {
+   "code": "Other internal",
+   "name": "Other internal function",
+   "type": "Internal",
+   "gap_alert_days": 365
+  },
+  {
+   "code": "HA",
+   "name": "Health Authority",
+   "type": "External",
+   "gap_alert_days": 365
+  },
+  {
+   "code": "HCPs",
+   "name": "Healthcare Professionals",
+   "type": "External",
+   "gap_alert_days": 365
+  },
+  {
+   "code": "Other external",
+   "name": "Other external party",
+   "type": "External",
+   "gap_alert_days": 365
+  }
+ ],
+ "activity_level_rules": [
+  {
+   "level": "Global",
+   "when": {
+    "region": [
+     "Global"
+    ]
+   }
+  },
+  {
+   "level": "Global",
+   "when": {
+    "country_contains": [
+     "Global"
+    ]
+   }
+  },
+  {
+   "level": "Regional",
+   "when": {
+    "country_contains": [
+     "Regional"
+    ]
+   }
+  },
+  {
+   "level": "Regional",
+   "when": {
+    "cluster": [
+     "Regional LMS"
+    ]
+   }
+  },
+  {
+   "level": "Local",
+   "when": {}
+  }
+ ],
+ "materials": [
+  {
+   "id": "M001",
+   "title": "Erleada EU RMP update v8.3 - one pager",
+   "products": [
+    "Erleada"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-11-20",
+   "external_use": false,
+   "keywords": [
+    "rmp",
+    "v8.3"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M002",
+   "title": "Erleada neutropenia deep-dive presentation",
+   "products": [
+    "Erleada"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Core LMS Material",
+   "date_added": "2025-11-25",
+   "external_use": false,
+   "keywords": [
+    "neutropenia"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M003",
+   "title": "Erleada signal: lichenoid eruption - one pager",
+   "products": [
+    "Erleada"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "ICSR/AE/SS/Signal",
+   "date_added": "2025-09-30",
+   "external_use": false,
+   "keywords": [
+    "lichenoid"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M004",
+   "title": "Erleada quarterly Safety Views Q4 2025",
+   "products": [
+    "Erleada"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Safety Views",
+   "date_added": "2026-04-02",
+   "external_use": false,
+   "keywords": [
+    "safety views",
+    "safety update"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M005",
+   "title": "Amivantamab/Lazertinib quarterly Safety Views Q3 2025",
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Safety Views",
+   "date_added": "2025-10-30",
+   "external_use": false,
+   "keywords": [
+    "safety view",
+    "safety update"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M006",
+   "title": "Rybrevant RMP key safety messages",
+   "products": [
+    "Rybrevant"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-07-15",
+   "external_use": false,
+   "keywords": [
+    "rmp",
+    "key safety"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M007",
+   "title": "Lazertinib RMP v2.1 key safety messages - one pager",
+   "products": [
+    "Lazertinib"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-10-10",
+   "external_use": false,
+   "keywords": [
+    "lazertinib rmp",
+    "rmp v.2.1"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M008",
+   "title": "Ami/Laz PV newsletter Q4 2025",
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Core LMS Material",
+   "date_added": "2026-03-20",
+   "external_use": false,
+   "keywords": [
+    "newsletter",
+    "pv news"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M009",
+   "title": "Carvykti core RMP v6.0 summary",
+   "products": [
+    "Carvykti"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-04-30",
+   "external_use": false,
+   "keywords": [
+    "crmp",
+    "rmp"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M010",
+   "title": "Carvykti EU RMP v6.1 summary",
+   "products": [
+    "Carvykti"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-04-30",
+   "external_use": false,
+   "keywords": [
+    "eu rmp",
+    "eu-rmp"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M011",
+   "title": "Carvykti launch preparation pack",
+   "products": [
+    "Carvykti"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Core LMS Material",
+   "date_added": "2025-06-01",
+   "external_use": false,
+   "keywords": [
+    "launch"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M012",
+   "title": "Carvykti PBRER summary (Feb-Aug 2025)",
+   "products": [
+    "Carvykti"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Aggreg. Reports",
+   "date_added": "2025-10-15",
+   "external_use": false,
+   "keywords": [
+    "pbrer"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M013",
+   "title": "Tecvayli EU & WW PBRER - one pager",
+   "products": [
+    "Tecvayli"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Aggreg. Reports",
+   "date_added": "2025-09-15",
+   "external_use": false,
+   "keywords": [
+    "pbrer"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M014",
+   "title": "Tecvayli & Talvey safety snapshot",
+   "products": [
+    "Tecvayli",
+    "Talquetamab"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Safety Views",
+   "date_added": "2026-04-10",
+   "external_use": false,
+   "keywords": [
+    "snapshot",
+    "safety views"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M015",
+   "title": "Signal training: tumour flare reaction (Talvey & Tecvayli)",
+   "products": [
+    "Tecvayli",
+    "Talquetamab"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Other Safety Insights",
+   "date_added": "2025-08-28",
+   "external_use": false,
+   "keywords": [
+    "tumour flare",
+    "tumor flare"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M016",
+   "title": "Drug-induced PML safety overview - one pager",
+   "products": [
+    "Talquetamab",
+    "Tecvayli",
+    "Darzalex/ Dalinvi",
+    "Imbruvica",
+    "Carvykti"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Other Safety Insights",
+   "date_added": "2025-10-20",
+   "external_use": false,
+   "keywords": [
+    "pml",
+    "leukoencephalopathy"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M017",
+   "title": "Talvey EU RMP v3.3 safety messages",
+   "products": [
+    "Talquetamab"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-12-05",
+   "external_use": false,
+   "keywords": [
+    "rmp v3.3",
+    "rmp version 3.3"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M018",
+   "title": "Darzalex EU RMP v12.1 presentation",
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-03-10",
+   "external_use": false,
+   "keywords": [
+    "eurmp",
+    "rmp"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M019",
+   "title": "Imbruvica EU RMP v23.3 - one page summary",
+   "products": [
+    "Imbruvica"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-09-01",
+   "external_use": false,
+   "keywords": [
+    "rmpv23",
+    "rmp"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M020",
+   "title": "Imbruvica quarterly Safety Views Q4 2025",
+   "products": [
+    "Imbruvica"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Safety Views",
+   "date_added": "2026-04-15",
+   "external_use": false,
+   "keywords": [
+    "safety views"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M021",
+   "title": "Balversa PBRER summary (Oct 2024-Apr 2025)",
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Aggreg. Reports",
+   "date_added": "2025-07-20",
+   "external_use": false,
+   "keywords": [
+    "pbrer"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M022",
+   "title": "Balversa quarterly Safety Views Q3 2025",
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "Safety Views",
+   "date_added": "2025-10-25",
+   "external_use": false,
+   "keywords": [
+    "safety views",
+    "safety update"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M023",
+   "title": "TAR-200 pre-launch safety training deck",
+   "products": [
+    "TAR-200"
+   ],
+   "ta": [
+    "Oncology"
+   ],
+   "content_type": "LMS Education",
+   "date_added": "2026-04-22",
+   "external_use": false,
+   "keywords": [
+    "training",
+    "launch"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M024",
+   "title": "Tremfya EU RMP v12.1 summary",
+   "products": [
+    "Tremfya"
+   ],
+   "ta": [
+    "Immunology"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-06-15",
+   "external_use": false,
+   "keywords": [
+    "rmp"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M025",
+   "title": "Tremfya worldwide PBRER summary",
+   "products": [
+    "Tremfya"
+   ],
+   "ta": [
+    "Immunology"
+   ],
+   "content_type": "Aggreg. Reports",
+   "date_added": "2024-07-13",
+   "external_use": false,
+   "keywords": [
+    "pbrer"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M026",
+   "title": "Tremfya quarterly Safety Views Q4 2025",
+   "products": [
+    "Tremfya"
+   ],
+   "ta": [
+    "Immunology"
+   ],
+   "content_type": "Safety Views",
+   "date_added": "2026-03-25",
+   "external_use": false,
+   "keywords": [
+    "safety views"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M027",
+   "title": "Icotrokinra core RMP & DSUR summary",
+   "products": [
+    "Icotrokinra"
+   ],
+   "ta": [
+    "Immunology"
+   ],
+   "content_type": "Aggreg. Reports",
+   "date_added": "2025-10-15",
+   "external_use": false,
+   "keywords": [
+    "dsur",
+    "crmp"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M028",
+   "title": "Nipocalimab (Imaavy) safety onboarding pack",
+   "products": [
+    "Nipocalimab"
+   ],
+   "ta": [
+    "Immunology"
+   ],
+   "content_type": "LMS Education",
+   "date_added": "2026-04-08",
+   "external_use": false,
+   "keywords": [
+    "onboarding",
+    "safety views"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M029",
+   "title": "Stelara worldwide Safety Views Q3 2025",
+   "products": [
+    "Stelara"
+   ],
+   "ta": [
+    "Immunology"
+   ],
+   "content_type": "Safety Views",
+   "date_added": "2025-10-30",
+   "external_use": false,
+   "keywords": [
+    "safety views"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M030",
+   "title": "Spravato controlled access / distribution programme overview",
+   "products": [
+    "Spravato"
+   ],
+   "ta": [
+    "Neuroscience"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-09-10",
+   "external_use": false,
+   "keywords": [
+    "controlled",
+    "rmp"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M031",
+   "title": "Spravato safety concerns training for HCPs",
+   "products": [
+    "Spravato"
+   ],
+   "ta": [
+    "Neuroscience"
+   ],
+   "content_type": "LMS Education",
+   "date_added": "2025-11-01",
+   "external_use": true,
+   "keywords": [
+    "training"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M032",
+   "title": "Spravato Safety Views Q4 2025 for MAF",
+   "products": [
+    "Spravato"
+   ],
+   "ta": [
+    "Neuroscience"
+   ],
+   "content_type": "Safety Views",
+   "date_added": "2026-04-20",
+   "external_use": false,
+   "keywords": [
+    "safety views",
+    "safetry views"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M033",
+   "title": "Uptravi RMP v9.1 safety messages",
+   "products": [
+    "Uptravi"
+   ],
+   "ta": [
+    "Cardiopulmonary (PAH)"
+   ],
+   "content_type": "RMP & (C)ARMAs",
+   "date_added": "2025-05-01",
+   "external_use": false,
+   "keywords": [
+    "uptravi"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M034",
+   "title": "PAH medication adherence patient leaflet",
+   "products": [
+    "Opsumit/ Zependo",
+    "Uptravi",
+    "PAH"
+   ],
+   "ta": [
+    "Cardiopulmonary (PAH)"
+   ],
+   "content_type": "LMS Education",
+   "date_added": "2025-12-15",
+   "external_use": true,
+   "keywords": [
+    "adherence"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M035",
+   "title": "PV in practice: aggregate reports (training)",
+   "products": [
+    "General"
+   ],
+   "ta": [
+    "Cross-TA (General)"
+   ],
+   "content_type": "LMS Education",
+   "date_added": "2025-03-01",
+   "external_use": false,
+   "keywords": [
+    "pv in practice",
+    "aggregate"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M036",
+   "title": "EZ Reporter: how to report AE/PQC",
+   "products": [
+    "General"
+   ],
+   "ta": [
+    "Cross-TA (General)"
+   ],
+   "content_type": "LMS Education",
+   "date_added": "2025-05-20",
+   "external_use": false,
+   "keywords": [
+    "ez reporter",
+    "ezr"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  },
+  {
+   "id": "M037",
+   "title": "LMS organisation model & RML role - introduction deck",
+   "products": [
+    "General",
+    "Oncology"
+   ],
+   "ta": [
+    "Cross-TA (General)",
+    "Oncology"
+   ],
+   "content_type": "LMS Education",
+   "date_added": "2025-10-01",
+   "external_use": false,
+   "keywords": [
+    "rml role",
+    "organization model",
+    "organisation model",
+    "organizational model"
+   ],
+   "source": "LMS Learn channel (demo list)",
+   "link": "#"
+  }
+ ],
+ "users": [
+  {
+   "id": "u_onc_alpines",
+   "name": "Sofie Brunner",
+   "title": "Local Medical Safety Lead, Alpines",
+   "role": "LMS Local",
+   "scope_level": "Local",
+   "regions": [
+    "EMEA"
+   ],
+   "clusters": [],
+   "countries": [
+    "Alpines"
+   ],
+   "tas": [
+    "Oncology"
+   ],
+   "products": [],
+   "can_edit": "own_scope",
+   "is_admin": false
+  },
+  {
+   "id": "u_emea_head",
+   "name": "Dr. Lena Vogel",
+   "title": "EMEA Safety Head",
+   "role": "Regional Head",
+   "scope_level": "Regional",
+   "regions": [
+    "EMEA"
+   ],
+   "clusters": [],
+   "countries": [],
+   "tas": [],
+   "products": [],
+   "can_edit": "own_records",
+   "is_admin": false
+  },
+  {
+   "id": "u_imm_rml",
+   "name": "Dr. Marco Rinaldi",
+   "title": "Global Risk Management Lead, Immunology",
+   "role": "Global RML",
+   "scope_level": "Global",
+   "regions": [],
+   "clusters": [],
+   "countries": [],
+   "tas": [
+    "Immunology"
+   ],
+   "products": [],
+   "can_edit": "own_records",
+   "is_admin": false
+  },
+  {
+   "id": "u_apac_sea",
+   "name": "Mei Lin Tan",
+   "title": "LMS Manager, South East Asia",
+   "role": "LMS Cluster",
+   "scope_level": "Regional",
+   "regions": [
+    "APAC"
+   ],
+   "clusters": [
+    "South East Asia"
+   ],
+   "countries": [],
+   "tas": [],
+   "products": [],
+   "can_edit": "own_scope",
+   "is_admin": false
+  },
+  {
+   "id": "u_admin",
+   "name": "LMS ID Team",
+   "title": "Dashboard administrator",
+   "role": "Admin",
+   "scope_level": "Global",
+   "regions": [],
+   "clusters": [],
+   "countries": [],
+   "tas": [],
+   "products": [],
+   "can_edit": "all",
+   "is_admin": true
+  }
+ ],
+ "access_rules": {
+  "Local": "Sees full records for their own countries; sees counts and hot topics (no record detail) for other countries on the same products.",
+  "Regional": "Sees full records for their regions / clusters.",
+  "Global": "Sees all records.",
+  "edit": {
+   "own_records": "Can edit records they created.",
+   "own_scope": "Can edit any record in their own countries / clusters.",
+   "all": "Can edit and delete any record (admin)."
+  }
+ },
+ "workflow": {
+  "stages": [
+   {
+    "id": "logged",
+    "label": "Logged",
+    "sla_days": 0
+   },
+   {
+    "id": "escalated",
+    "label": "Escalated to core team / RML",
+    "sla_days": 2
+   },
+   {
+    "id": "follow_up",
+    "label": "Follow-up",
+    "sla_days": 10
+   },
+   {
+    "id": "resolved",
+    "label": "Resolved (confirmed)",
+    "sla_days": 30
+   }
+  ],
+  "escalation_contacts": {
+   "Oncology": [
+    {
+     "name": "Dr. Anna Kowalski (demo)",
+     "role": "Oncology Core Team Lead - EMEA"
+    },
+    {
+     "name": "Dr. Raj Mehta (demo)",
+     "role": "Risk Management Lead - Oncology"
+    }
+   ],
+   "Immunology": [
+    {
+     "name": "Dr. Claire Dubois (demo)",
+     "role": "Immunology Core Team Lead - EMEA"
+    },
+    {
+     "name": "Dr. Marco Rinaldi (demo)",
+     "role": "Global Risk Management Lead - Immunology"
+    }
+   ],
+   "Neuroscience": [
+    {
+     "name": "Dr. Yusuf Haddad (demo)",
+     "role": "Neuroscience Core Team Lead"
+    },
+    {
+     "name": "Dr. Ingrid Larsen (demo)",
+     "role": "Risk Management Lead - Neuroscience"
+    }
+   ],
+   "Cardiopulmonary (PAH)": [
+    {
+     "name": "Dr. Paula Ortega (demo)",
+     "role": "PAH Core Team Lead"
+    }
+   ],
+   "Established Products": [
+    {
+     "name": "Dr. Tom Becker (demo)",
+     "role": "Established Products Safety Lead"
+    }
+   ],
+   "Cross-TA (General)": [
+    {
+     "name": "LMS ID Team (demo)",
+     "role": "Regional LMS coordination"
+    }
+   ]
+  },
+  "confirmed_by": "The LMS colleague who logged the request confirms resolution with the stakeholder."
+ },
+ "workflow_requests": [
+  {
+   "id": "BR-001",
+   "record_id": 10082,
+   "title": "AT: colleague asks about frequency of reaction site erythema under Tremfya.",
+   "product": "Tremfya",
+   "ta": "Immunology",
+   "country": "Alpines",
+   "stakeholders": [
+    "MAF"
+   ],
+   "assignee": {
+    "name": "Dr. Claire Dubois (demo)",
+    "role": "Immunology Core Team Lead - EMEA"
+   },
+   "stage": "logged",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-09T08:52:45",
+     "by": "LMS User 14",
+     "note": "Request logged from interaction record."
+    }
+   ]
+  },
+  {
+   "id": "BR-002",
+   "record_id": 10071,
+   "title": "CH: Quarterly Safety views overview on previously agreed parameters eg IRR (08JAN2026).",
+   "product": "Darzalex/ Dalinvi",
+   "ta": "Oncology",
+   "country": "Alpines",
+   "stakeholders": [
+    "MAF"
+   ],
+   "assignee": {
+    "name": "Dr. Anna Kowalski (demo)",
+    "role": "Oncology Core Team Lead - EMEA"
+   },
+   "stage": "escalated",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-09T01:58:23",
+     "by": "LMS User 11",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-10T01:58:23",
+     "by": "LMS User 11",
+     "note": "Escalated to Dr. Anna Kowalski (demo) (Oncology Core Team Lead - EMEA)."
+    }
+   ]
+  },
+  {
+   "id": "BR-003",
+   "record_id": 10070,
+   "title": "AT: Quarterly Safety views overview on previously agreed parameters eg IRR (08JAN2026).",
+   "product": "Darzalex/ Dalinvi",
+   "ta": "Oncology",
+   "country": "Alpines",
+   "stakeholders": [
+    "MAF"
+   ],
+   "assignee": {
+    "name": "Dr. Anna Kowalski (demo)",
+    "role": "Oncology Core Team Lead - EMEA"
+   },
+   "stage": "follow_up",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-09T01:57:25",
+     "by": "LMS User 11",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-10T01:57:25",
+     "by": "LMS User 11",
+     "note": "Escalated to Dr. Anna Kowalski (demo) (Oncology Core Team Lead - EMEA)."
+    },
+    {
+     "stage": "follow_up",
+     "at": "2026-01-15T01:57:25",
+     "by": "LMS User 11",
+     "note": "Core team response received; follow-up with stakeholder scheduled."
+    }
+   ]
+  },
+  {
+   "id": "BR-004",
+   "record_id": 10047,
+   "title": "Alignment PQC #90000383303_20251026024: Clarify why an additional PQC investigation was opened for an OOS prod",
+   "product": "Carvykti",
+   "ta": "Oncology",
+   "country": "Alpines",
+   "stakeholders": [
+    "CQ"
+   ],
+   "assignee": {
+    "name": "Dr. Anna Kowalski (demo)",
+    "role": "Oncology Core Team Lead - EMEA"
+   },
+   "stage": "resolved",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-05T06:23:13",
+     "by": "LMS User 11",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-06T06:23:13",
+     "by": "LMS User 11",
+     "note": "Escalated to Dr. Anna Kowalski (demo) (Oncology Core Team Lead - EMEA)."
+    },
+    {
+     "stage": "follow_up",
+     "at": "2026-01-11T06:23:13",
+     "by": "LMS User 11",
+     "note": "Core team response received; follow-up with stakeholder scheduled."
+    },
+    {
+     "stage": "resolved",
+     "at": "2026-01-20T06:23:13",
+     "by": "LMS User 11",
+     "note": "Stakeholder confirmed the query was resolved."
+    }
+   ]
+  },
+  {
+   "id": "BR-005",
+   "record_id": 10158,
+   "title": "Due to the addition of new Sales Representatives to the local Spravato team in Jan-2026, LMS was invited by Ma",
+   "product": "Spravato",
+   "ta": "Neuroscience",
+   "country": "Thailand & LCM",
+   "stakeholders": [
+    "Marketing",
+    "Sales"
+   ],
+   "assignee": {
+    "name": "Dr. Yusuf Haddad (demo)",
+    "role": "Neuroscience Core Team Lead"
+   },
+   "stage": "logged",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-19T22:57:06",
+     "by": "LMS User 36",
+     "note": "Request logged from interaction record."
+    }
+   ]
+  },
+  {
+   "id": "BR-006",
+   "record_id": 10150,
+   "title": "Collaborated with Medical Affairs (MAF) to co-lead discussions on the Dissemination Plan for the Tecvayli pati",
+   "product": "Tecvayli",
+   "ta": "Oncology",
+   "country": "Malaysia & Brunei",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg."
+   ],
+   "assignee": {
+    "name": "Dr. Anna Kowalski (demo)",
+    "role": "Oncology Core Team Lead - EMEA"
+   },
+   "stage": "escalated",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-15T21:19:31",
+     "by": "LMS User 31",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-16T21:19:31",
+     "by": "LMS User 31",
+     "note": "Escalated to Dr. Anna Kowalski (demo) (Oncology Core Team Lead - EMEA)."
+    }
+   ]
+  },
+  {
+   "id": "BR-007",
+   "record_id": 10149,
+   "title": "Shared the Summary of Safety Issues for the month of December via email for cross-functional team awareness.",
+   "product": "Invokana",
+   "ta": "Established Products",
+   "country": "Malaysia & Brunei",
+   "stakeholders": [
+    "CQ",
+    "MAF",
+    "Reg."
+   ],
+   "assignee": {
+    "name": "Dr. Tom Becker (demo)",
+    "role": "Established Products Safety Lead"
+   },
+   "stage": "follow_up",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-15T21:07:54",
+     "by": "LMS User 31",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-16T21:07:54",
+     "by": "LMS User 31",
+     "note": "Escalated to Dr. Tom Becker (demo) (Established Products Safety Lead)."
+    },
+    {
+     "stage": "follow_up",
+     "at": "2026-01-21T21:07:54",
+     "by": "LMS User 31",
+     "note": "Core team response received; follow-up with stakeholder scheduled."
+    }
+   ]
+  },
+  {
+   "id": "BR-008",
+   "record_id": 10137,
+   "title": "MAF colleague ask about AESIs for Tremfya and watchlist for an ongoing study.",
+   "product": "Tremfya",
+   "ta": "Immunology",
+   "country": "Germany",
+   "stakeholders": [
+    "MAF"
+   ],
+   "assignee": {
+    "name": "Dr. Claire Dubois (demo)",
+    "role": "Immunology Core Team Lead - EMEA"
+   },
+   "stage": "resolved",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-12T07:34:27",
+     "by": "LMS User 14",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-13T07:34:27",
+     "by": "LMS User 14",
+     "note": "Escalated to Dr. Claire Dubois (demo) (Immunology Core Team Lead - EMEA)."
+    },
+    {
+     "stage": "follow_up",
+     "at": "2026-01-18T07:34:27",
+     "by": "LMS User 14",
+     "note": "Core team response received; follow-up with stakeholder scheduled."
+    },
+    {
+     "stage": "resolved",
+     "at": "2026-01-27T07:34:27",
+     "by": "LMS User 14",
+     "note": "Stakeholder confirmed the query was resolved."
+    }
+   ]
+  },
+  {
+   "id": "BR-009",
+   "record_id": 10057,
+   "title": "Regional PMC colleague asked about Case LL on a local registry BiKeR including Simponi (Golimumab).",
+   "product": "Immunology",
+   "ta": "Immunology",
+   "country": "Germany",
+   "stakeholders": [
+    "MAF"
+   ],
+   "assignee": {
+    "name": "Dr. Claire Dubois (demo)",
+    "role": "Immunology Core Team Lead - EMEA"
+   },
+   "stage": "logged",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-07T03:49:27",
+     "by": "LMS User 14",
+     "note": "Request logged from interaction record."
+    }
+   ]
+  },
+  {
+   "id": "BR-010",
+   "record_id": 10056,
+   "title": "discussion with Mrdical Manager about AER 20251028108 anaphylactic reaction",
+   "product": "Nipocalimab",
+   "ta": "Immunology",
+   "country": "Germany",
+   "stakeholders": [
+    "MAF"
+   ],
+   "assignee": {
+    "name": "Dr. Claire Dubois (demo)",
+    "role": "Immunology Core Team Lead - EMEA"
+   },
+   "stage": "escalated",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-07T03:22:10",
+     "by": "LMS User 13",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-08T03:22:10",
+     "by": "LMS User 13",
+     "note": "Escalated to Dr. Claire Dubois (demo) (Immunology Core Team Lead - EMEA)."
+    }
+   ]
+  },
+  {
+   "id": "BR-011",
+   "record_id": 10152,
+   "title": "The Carvykti Sales and Marketing Lead requested insights on ICSR related to disease progression.",
+   "product": "Carvykti",
+   "ta": "Oncology",
+   "country": "Spain",
+   "stakeholders": [
+    "CVT/IBVT"
+   ],
+   "assignee": {
+    "name": "Dr. Anna Kowalski (demo)",
+    "role": "Oncology Core Team Lead - EMEA"
+   },
+   "stage": "follow_up",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-16T07:29:16",
+     "by": "LMS User 33",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-17T07:29:16",
+     "by": "LMS User 33",
+     "note": "Escalated to Dr. Anna Kowalski (demo) (Oncology Core Team Lead - EMEA)."
+    },
+    {
+     "stage": "follow_up",
+     "at": "2026-01-22T07:29:16",
+     "by": "LMS User 33",
+     "note": "Core team response received; follow-up with stakeholder scheduled."
+    }
+   ]
+  },
+  {
+   "id": "BR-012",
+   "record_id": 10148,
+   "title": "Discussion with MAF colleague on increasing numbers of OLU cases for Tec for Amyloidosis patients, as only Dar",
+   "product": "Tecvayli",
+   "ta": "Oncology",
+   "country": "Germany",
+   "stakeholders": [
+    "MAF"
+   ],
+   "assignee": {
+    "name": "Dr. Anna Kowalski (demo)",
+    "role": "Oncology Core Team Lead - EMEA"
+   },
+   "stage": "resolved",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-15T06:46:56",
+     "by": "LMS User 29",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-16T06:46:56",
+     "by": "LMS User 29",
+     "note": "Escalated to Dr. Anna Kowalski (demo) (Oncology Core Team Lead - EMEA)."
+    },
+    {
+     "stage": "follow_up",
+     "at": "2026-01-21T06:46:56",
+     "by": "LMS User 29",
+     "note": "Core team response received; follow-up with stakeholder scheduled."
+    },
+    {
+     "stage": "resolved",
+     "at": "2026-01-30T06:46:56",
+     "by": "LMS User 29",
+     "note": "Stakeholder confirmed the query was resolved."
+    }
+   ]
+  },
+  {
+   "id": "BR-013",
+   "record_id": 10114,
+   "title": "Russia: LMS and the global Biogen Team have discussed the HAQ on Spinraza (Biogen) within the framework of the",
+   "product": "Neurosciences",
+   "ta": "Neuroscience",
+   "country": "Russia & CIS",
+   "stakeholders": [
+    "Reg.",
+    "Other external"
+   ],
+   "assignee": {
+    "name": "Dr. Yusuf Haddad (demo)",
+    "role": "Neuroscience Core Team Lead"
+   },
+   "stage": "logged",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-09T16:31:59",
+     "by": "LMS User 25",
+     "note": "Request logged from interaction record."
+    }
+   ]
+  },
+  {
+   "id": "BR-014",
+   "record_id": 10113,
+   "title": "Russia: LMS and the global Biogen Team have discussed the HAQ on Spinraza (Biogen) within the framework of the",
+   "product": "Neurosciences",
+   "ta": "Neuroscience",
+   "country": "Russia & CIS",
+   "stakeholders": [
+    "MSO",
+    "Other external",
+    "Reg."
+   ],
+   "assignee": {
+    "name": "Dr. Yusuf Haddad (demo)",
+    "role": "Neuroscience Core Team Lead"
+   },
+   "stage": "escalated",
+   "events": [
+    {
+     "stage": "logged",
+     "at": "2026-01-09T16:30:20",
+     "by": "LMS User 25",
+     "note": "Request logged from interaction record."
+    },
+    {
+     "stage": "escalated",
+     "at": "2026-01-10T16:30:20",
+     "by": "LMS User 25",
+     "note": "Escalated to Dr. Yusuf Haddad (demo) (Neuroscience Core Team Lead)."
+    }
+   ]
+  }
+ ],
+ "kpi_options": {
+  "stakeholder_status": [
+   "New",
+   "Established"
+  ],
+  "follow_up": [
+   "Yes",
+   "No"
+  ],
+  "impact_category": [
+   "Answered stakeholder query",
+   "Kept stakeholders informed",
+   "Built stakeholder safety knowledge",
+   "Supported risk minimisation",
+   "Supported launch readiness",
+   "Other"
+  ],
+  "outcomes": [
+   "Led to another interaction",
+   "Led to stakeholder action",
+   "Informed a decision"
+  ]
+ },
+ "record_demo_values": {
+  "1": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": []
+  },
+  "102": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "101": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": [
+    "M009"
+   ]
+  },
+  "103": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "100": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": [
+    "M009",
+    "M010"
+   ]
+  },
+  "1000": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": []
+  },
+  "1001": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "1011": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M036"
+   ]
+  },
+  "1005": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "1012": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "1006": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "1007": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "1008": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "1009": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M036"
+   ]
+  },
+  "1002": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "1004": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "1003": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M035"
+   ]
+  },
+  "1010": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "1021": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "1013": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "1014": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "1015": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "1016": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "1017": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "1020": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "1023": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "1024": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "1019": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "1022": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "1018": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "1027": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "1028": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": []
+  },
+  "1029": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "1026": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "1025": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10000": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [
+    "Led to stakeholder action",
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10001": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M001",
+    "M006"
+   ]
+  },
+  "10002": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M024",
+    "M025",
+    "M026"
+   ]
+  },
+  "10003": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M016"
+   ]
+  },
+  "10004": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M016"
+   ]
+  },
+  "10005": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M008"
+   ]
+  },
+  "10006": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M001"
+   ]
+  },
+  "10007": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10008": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10009": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M004"
+   ]
+  },
+  "10010": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M004"
+   ]
+  },
+  "10011": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M005"
+   ]
+  },
+  "10012": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M005"
+   ]
+  },
+  "10013": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M005"
+   ]
+  },
+  "10014": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M005"
+   ]
+  },
+  "10015": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M022"
+   ]
+  },
+  "10017": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M022"
+   ]
+  },
+  "10016": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M004"
+   ]
+  },
+  "10018": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M004"
+   ]
+  },
+  "10019": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10020": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10021": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M002"
+   ]
+  },
+  "10022": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M002"
+   ]
+  },
+  "10023": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10024": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10025": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M013"
+   ]
+  },
+  "10026": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M029"
+   ]
+  },
+  "10027": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M026"
+   ]
+  },
+  "10028": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M032"
+   ]
+  },
+  "10029": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M001",
+    "M002"
+   ]
+  },
+  "10030": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M005",
+    "M006"
+   ]
+  },
+  "10031": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M001",
+    "M002"
+   ]
+  },
+  "10032": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [],
+   "materials": [
+    "M030",
+    "M031"
+   ]
+  },
+  "10033": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M024",
+    "M025"
+   ]
+  },
+  "10034": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10035": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10036": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M013",
+    "M014"
+   ]
+  },
+  "10037": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10038": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": [
+    "M009",
+    "M011",
+    "M012"
+   ]
+  },
+  "10039": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10040": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [
+    "Led to another interaction"
+   ],
+   "materials": [
+    "M031"
+   ]
+  },
+  "10041": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M031"
+   ]
+  },
+  "10042": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to stakeholder action",
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10043": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10044": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10045": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10046": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10047": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10048": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10049": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M022"
+   ]
+  },
+  "10050": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M032"
+   ]
+  },
+  "10051": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M013"
+   ]
+  },
+  "10052": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M029"
+   ]
+  },
+  "10053": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M026"
+   ]
+  },
+  "10054": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M001"
+   ]
+  },
+  "10055": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": [
+    "M028"
+   ]
+  },
+  "10056": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": []
+  },
+  "10057": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10058": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M008"
+   ]
+  },
+  "10060": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M028"
+   ]
+  },
+  "10059": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M004"
+   ]
+  },
+  "10061": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M004"
+   ]
+  },
+  "10062": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M022"
+   ]
+  },
+  "10063": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M022"
+   ]
+  },
+  "10064": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10065": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": [
+    "M005",
+    "M006"
+   ]
+  },
+  "10066": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": [
+    "M028"
+   ]
+  },
+  "10067": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10068": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10069": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": [
+    "M030"
+   ]
+  },
+  "10070": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10071": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10072": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M032"
+   ]
+  },
+  "10073": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M032"
+   ]
+  },
+  "10074": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M018"
+   ]
+  },
+  "10075": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M019"
+   ]
+  },
+  "10076": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [],
+   "materials": [
+    "M028"
+   ]
+  },
+  "10077": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M022"
+   ]
+  },
+  "10078": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M022"
+   ]
+  },
+  "10079": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M022"
+   ]
+  },
+  "10080": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": [
+    "M017"
+   ]
+  },
+  "10081": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [],
+   "materials": [
+    "M015"
+   ]
+  },
+  "10082": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M026"
+   ]
+  },
+  "10083": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M001",
+    "M002"
+   ]
+  },
+  "10084": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M020"
+   ]
+  },
+  "10085": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M020"
+   ]
+  },
+  "10086": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M016",
+    "M017"
+   ]
+  },
+  "10087": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M016",
+    "M017"
+   ]
+  },
+  "10088": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M014"
+   ]
+  },
+  "10089": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M014"
+   ]
+  },
+  "10090": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": [
+    "M006",
+    "M007",
+    "M008"
+   ]
+  },
+  "10091": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M001"
+   ]
+  },
+  "10092": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M019"
+   ]
+  },
+  "10093": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M018"
+   ]
+  },
+  "10094": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10095": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M021"
+   ]
+  },
+  "10097": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action",
+    "Informed a decision"
+   ],
+   "materials": [
+    "M030"
+   ]
+  },
+  "10096": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10098": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": [
+    "M030"
+   ]
+  },
+  "10099": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [],
+   "materials": []
+  },
+  "10100": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10101": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10102": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10103": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10104": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10105": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10106": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": [
+    "M018"
+   ]
+  },
+  "10107": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": [
+    "M018"
+   ]
+  },
+  "10108": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10109": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10110": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10111": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10112": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10113": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10114": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10115": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [],
+   "materials": []
+  },
+  "10117": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10116": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10118": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10120": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10119": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M023"
+   ]
+  },
+  "10121": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10122": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10123": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Other",
+   "outcomes": [
+    "Led to another interaction"
+   ],
+   "materials": []
+  },
+  "10124": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": [
+    "M023"
+   ]
+  },
+  "10125": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10126": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": [
+    "M023"
+   ]
+  },
+  "10127": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10128": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10129": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10130": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [],
+   "materials": []
+  },
+  "10131": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to another interaction",
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10132": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Other",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": [
+    "M037"
+   ]
+  },
+  "10133": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Other",
+   "outcomes": [
+    "Led to stakeholder action",
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10134": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": []
+  },
+  "10135": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [],
+   "materials": []
+  },
+  "10136": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [
+    "Led to stakeholder action",
+    "Informed a decision"
+   ],
+   "materials": [
+    "M023"
+   ]
+  },
+  "10137": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10138": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M005"
+   ]
+  },
+  "10139": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [],
+   "materials": []
+  },
+  "10140": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M013",
+    "M016"
+   ]
+  },
+  "10141": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M016"
+   ]
+  },
+  "10142": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M014"
+   ]
+  },
+  "10143": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M014"
+   ]
+  },
+  "10144": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [],
+   "materials": [
+    "M006"
+   ]
+  },
+  "10145": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": [
+    "M020"
+   ]
+  },
+  "10146": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [
+    "Led to another interaction"
+   ],
+   "materials": [
+    "M005"
+   ]
+  },
+  "10147": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10148": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10149": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10150": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [
+    "Led to stakeholder action",
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10151": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Supported launch readiness",
+   "outcomes": [
+    "Led to another interaction"
+   ],
+   "materials": []
+  },
+  "10152": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [],
+   "materials": []
+  },
+  "10153": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Answered stakeholder query",
+   "outcomes": [
+    "Led to stakeholder action"
+   ],
+   "materials": [
+    "M009",
+    "M010"
+   ]
+  },
+  "10154": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "10155": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [],
+   "materials": []
+  },
+  "10156": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Other",
+   "outcomes": [
+    "Led to another interaction",
+    "Led to stakeholder action",
+    "Informed a decision"
+   ],
+   "materials": []
+  },
+  "10157": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": []
+  },
+  "10158": {
+   "stakeholder_status": "New",
+   "follow_up": "Yes",
+   "impact_category": "Supported risk minimisation",
+   "outcomes": [
+    "Led to another interaction"
+   ],
+   "materials": [
+    "M030"
+   ]
+  },
+  "10159": {
+   "stakeholder_status": "Established",
+   "follow_up": "No",
+   "impact_category": "Other",
+   "outcomes": [],
+   "materials": [
+    "M012"
+   ]
+  },
+  "10160": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10161": {
+   "stakeholder_status": "New",
+   "follow_up": "No",
+   "impact_category": "Kept stakeholders informed",
+   "outcomes": [],
+   "materials": []
+  },
+  "10162": {
+   "stakeholder_status": "Established",
+   "follow_up": "Yes",
+   "impact_category": "Built stakeholder safety knowledge",
+   "outcomes": [
+    "Led to another interaction",
+    "Informed a decision"
+   ],
+   "materials": []
+  }
+ },
+ "safety_topic_taxonomy": [
+  {
+   "topic": "RMP updates & key safety messages",
+   "patterns": [
+    "\\brmp\\b",
+    "risk management plan",
+    "key safety message"
+   ]
+  },
+  {
+   "topic": "Additional risk minimisation (aRMM / patient card)",
+   "patterns": [
+    "\\ba?rmms?\\b",
+    "\\b\\(?c\\)?armas?\\b",
+    "patient card",
+    "controlled (access|distribution)",
+    "risk minimi[sz]ation"
+   ]
+  },
+  {
+   "topic": "Aggregate reports (PBRER / PSUR / DSUR)",
+   "patterns": [
+    "\\bpbrer\\b",
+    "\\bpsur\\b",
+    "\\bdsur\\b",
+    "aggregate report"
+   ]
+  },
+  {
+   "topic": "Quarterly Safety Views",
+   "patterns": [
+    "safety vie?we?s",
+    "safetry views",
+    "safety update"
+   ]
+  },
+  {
+   "topic": "Safety signals",
+   "patterns": [
+    "\\bsignals?\\b",
+    "\\bprac\\b"
+   ]
+  },
+  {
+   "topic": "PML",
+   "patterns": [
+    "\\bpml\\b",
+    "leukoencephalopathy"
+   ]
+  },
+  {
+   "topic": "Neutropenia",
+   "patterns": [
+    "neutropenia"
+   ]
+  },
+  {
+   "topic": "Neurotoxicity / ICANS",
+   "patterns": [
+    "\\bicans\\b",
+    "neurolog\\w* toxicity",
+    "neurotox"
+   ]
+  },
+  {
+   "topic": "Infusion-related reactions",
+   "patterns": [
+    "infusion[- ]related",
+    "\\birr\\b"
+   ]
+  },
+  {
+   "topic": "Tumour flare reaction",
+   "patterns": [
+    "tumou?r flare"
+   ]
+  },
+  {
+   "topic": "Skin reactions (rash, lichenoid, erythema)",
+   "patterns": [
+    "\\brash\\b",
+    "lichenoid",
+    "erythema"
+   ]
+  },
+  {
+   "topic": "Infections & reactivation (TB, HBV)",
+   "patterns": [
+    "infection",
+    "\\btb\\b",
+    "\\bhbv\\b",
+    "reactivation"
+   ]
+  },
+  {
+   "topic": "Cardiac safety",
+   "patterns": [
+    "cardiac",
+    "cardiotox"
+   ]
+  },
+  {
+   "topic": "Growth / slipped capital femoral epiphysis",
+   "patterns": [
+    "femoral epiphysis",
+    "growth accelerated"
+   ]
+  },
+  {
+   "topic": "Anaphylaxis / hypersensitivity",
+   "patterns": [
+    "anaphyla",
+    "hypersensitiv"
+   ]
+  },
+  {
+   "topic": "Off-label use",
+   "patterns": [
+    "off[- ]label",
+    "\\bolu\\b"
+   ]
+  },
+  {
+   "topic": "Health authority queries",
+   "patterns": [
+    "\\bhaq\\b",
+    "\\blha\\b",
+    "health authority",
+    "\\bha\\b request",
+    "regulatory authorit"
+   ]
+  },
+  {
+   "topic": "Label / SmPC changes",
+   "patterns": [
+    "\\blabel",
+    "\\bsmpc\\b",
+    "package insert"
+   ]
+  },
+  {
+   "topic": "Launch readiness",
+   "patterns": [
+    "\\blaunch"
+   ]
+  },
+  {
+   "topic": "AE / PQC reporting",
+   "patterns": [
+    "ez ?reporter",
+    "\\bezr\\b",
+    "\\bpqc\\b",
+    "ae[- ]reporting",
+    "reporting process"
+   ]
+  },
+  {
+   "topic": "LMS organisation & RML role",
+   "patterns": [
+    "rml role",
+    "organi[sz]ation(al)? model"
+   ]
+  },
+  {
+   "topic": "Safety training & education",
+   "patterns": [
+    "training",
+    "workshop",
+    "onboarding",
+    "education"
+   ]
+  },
+  {
+   "topic": "Clinical studies (PASS / PMC / LTFU)",
+   "patterns": [
+    "\\bpass\\b",
+    "\\bpmc\\b",
+    "\\bltfu\\b",
+    "clinical trial",
+    "\\bstudy\\b",
+    "\\bstudies\\b"
+   ]
+  },
+  {
+   "topic": "Patient adherence",
+   "patterns": [
+    "adherence"
+   ]
+  }
+ ],
+ "help_text": {
+  "cluster": "The cluster or sub-region the country belongs to (e.g. Mid-Size Markets, South East Asia). Filled automatically when you pick a country.",
+  "products": "The product(s) or therapeutic area the interaction was about. Pick 'General' if it covered several TAs.",
+  "stakeholders": "The J&J function(s) you interacted with, e.g. MAF (Medical Affairs), Reg. (Regulatory). Several can be selected.",
+  "activity_type": "Discussion = conversation/meeting; Presentation = you presented; Material = you shared a document.",
+  "content": "The type of safety content covered. Several can be selected.",
+  "materials": "The Local Medical Safety material(s) you used, from the LMS materials list.",
+  "comments": "Describe the interaction: what was provided, who was involved, and why the interaction occurred.",
+  "feedback": "Any feedback received and/or information related to potential interaction impact.",
+  "specific_icsr": "Which ICSR / AE / safety signal the interaction is related to, if any.",
+  "stakeholder_status": "New = first interaction with this stakeholder; Established = ongoing relationship.",
+  "impact_category": "The main value this interaction delivered (demo list, pending the final KPI set)."
+ },
+ "quality_weights": {
+  "required_fields": 45,
+  "comment_detail": 20,
+  "feedback": 10,
+  "kpi_fields": 15,
+  "material_link": 5,
+  "icsr_detail": 5,
+  "required": [
+   "year",
+   "quarter",
+   "region",
+   "cluster",
+   "country",
+   "products",
+   "stakeholders",
+   "activity_type",
+   "content",
+   "material_external",
+   "stakeholder_request",
+   "product_launch",
+   "comments"
+  ],
+  "bands": {
+   "High": 85,
+   "Medium": 60
+  }
+ },
+ "reports": [
+  {
+   "id": "R-EMEA",
+   "name": "EMEA interactions - EMEA Safety Head",
+   "owner": "u_emea_head",
+   "audience": "EMEA Safety Head",
+   "filters": {
+    "region": [
+     "EMEA"
+    ]
+   },
+   "sections": [
+    "kpis",
+    "trend",
+    "stakeholders",
+    "content",
+    "hot_topics",
+    "ai_summary",
+    "records"
+   ]
+  },
+  {
+   "id": "R-IMM",
+   "name": "Immunology - Global Risk Management Lead",
+   "owner": "u_imm_rml",
+   "audience": "Global RML Immunology",
+   "filters": {
+    "ta": [
+     "Immunology"
+    ]
+   },
+   "sections": [
+    "kpis",
+    "trend",
+    "stakeholders",
+    "hot_topics",
+    "ai_summary",
+    "records"
+   ]
+  },
+  {
+   "id": "R-ALP",
+   "name": "Alpines Oncology - quarterly update",
+   "owner": "u_onc_alpines",
+   "audience": "Local MAF Oncology",
+   "filters": {
+    "country": [
+     "Alpines"
+    ],
+    "ta": [
+     "Oncology"
+    ]
+   },
+   "sections": [
+    "kpis",
+    "content",
+    "hot_topics",
+    "ai_summary",
+    "records"
+   ]
+  }
+ ]
+}

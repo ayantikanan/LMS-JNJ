@@ -1,0 +1,5995 @@
+{
+ "source": "SharePoint export 'Test PV Insights Data' (sample), cleaned and anonymized",
+ "record_count": 199,
+ "records": [
+  {
+   "id": 1,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Thailand & LCM",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing",
+    "Other internal"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Discussion with MKT and Sale Force team on CARMA implementation tracking plan for Balversa.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2022-03-14T08:59:29",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:22:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Singapore",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Finalisation on the Balversa Patient Material - To print copy",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "Yes",
+   "created": "2022-03-14T08:59:30",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:22:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 102,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Nordics",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "Request of EU-ARMA by LMS Brazil",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2022-03-14T08:59:40",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:22:44",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 101,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Nordics",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "Draft RMP requested by LMS France",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2022-03-14T08:59:40",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:22:42",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 103,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Nordics",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "Questions about hospitals and PV training from LMS Italy",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T08:59:40",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:22:42",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 100,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2022",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "CH: Current EU-RMP 1.3 was requested (23Feb2022)",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T08:59:40",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:22:42",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1000,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Indonesia",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Indonesia will be launching CME website for HCP. LMS was consulted for PV requirement for the website and potential safety content to be added into the scope.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:17",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:30",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1001,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Vietnam",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "HA",
+    "Reg."
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "provide input for multiple queries from local RA about whether an SSI needs to be submitted to local HA.",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:17",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1011,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other external"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Slides on EZ REPORTER prepared for distributor.",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1005,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "France",
+   "country": "France",
+   "year": "2021",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Reg.",
+    "MAF"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "PBRER summary for Imodium Rx (Pharma sector)",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1012,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Iberia",
+   "country": "Spain",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "RMP Uptravi 9.1 with changes and safety messages distributed to MAF and Business Unit",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1006,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Greece",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "MAF",
+    "Reg."
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Updated the LWI of the RMP management for Greece/Cyprus/Malta in collaboration with RA/MAF upon the handover of the activities from PV tp RA and MAF",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1007,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Nordics",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "HCPs"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "HCP question regarding RMP summary Motilium DK",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1008,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Clinical Trials & Other Studies"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "HA"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Kazakhstan: HA requested information about the results of PASS for registered products in Kazakhstan. Information about completed PASS was provided (information was exported from DSUR/PSUR and RMP)",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1009,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Slides on EZ REPORTER prepared with a detailed guidance how to enter AE/PQC in EZR",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1002,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Thailand & LCM",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "CQ",
+    "MAF"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Reqeust and utilize data from SafetyViews to support internal work eg. safety assessment for escalation process, data for LMS work",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1004,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Benelux",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Reg."
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Specific request of Regulatory concerning Pancrease cases in UK and the Netherlands",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1003,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2021",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "PV in practice: Aggregate reports",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1010,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "HA"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Pharmacovigilance questionnaire received by HA JAZMP",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:18",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:37",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1021,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Singapore",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing",
+    "MAF",
+    "Reg.",
+    "CQ"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Monthly Summary of Safety Issues (listing of safety issues submitted to HA) email - March 2021",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:39",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1013,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South Asia",
+   "country": "India",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Reg."
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Shared SSI information to regulatory team",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1014,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Indonesia",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Sales",
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Other internal"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Quarterly: Summary of safety information for Pharma products",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1015,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Indonesia",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Sales",
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Other internal"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Quarterly: Summary of safety information for Pharma products. It includes total number of AE/SS received, detail on reported cases, Significant Safety Issues",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1016,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Indonesia",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Sales",
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Other internal"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Quarterly: Summary of safety information for Pharma products, including ICSR summary and List of Significant Safety Issue received",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1017,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Philippines",
+   "year": "2021",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other external"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Attended the PAPPI (Philippine Association of  Pharmacist in the Pharmaceutical Industry) 2021 2nd  Virtual GMM and World Pharmacists Day Celebration",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1020,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Singapore",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing",
+    "MAF",
+    "Reg.",
+    "CQ"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Monthly Summary of Safety Issues (listing of safety issues submitted to HA) email- February 2021",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1023,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Singapore",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing",
+    "MAF",
+    "Reg.",
+    "CQ"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Monthly Summary of Safety Issues (listing of safety issues submitted to HA) email - May2021",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:39",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1024,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Singapore",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing",
+    "MAF",
+    "Reg.",
+    "CQ"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Monthly Summary of Safety Issues (listing of safety issues submitted to HA) email - June2021",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:39",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1019,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Singapore",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing",
+    "MAF",
+    "Reg.",
+    "CQ"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Monthly Summary of Safety Issues (listing of safety issues submitted to HA) email- January 2021",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1022,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Singapore",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing",
+    "MAF",
+    "Reg.",
+    "CQ"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Monthly Summary of Safety Issues (listing of safety issues submitted to HA) email - April 2021",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:39",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1018,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Philippines",
+   "year": "2021",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other external"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Attended the Alliance of Pharmacist for Pharmacovigilance meeting (J&J as core team)",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:19",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1027,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Vietnam",
+   "year": "2021",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Review and provide inputs for the safety information of Ultracet brochure 2021, Simponi, Motilium M and Motilium suspension , Risperdal, Zytiga 500, Topamax, Sibelium, Concerta, Reminyl capsule brochures.",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:20",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:39",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1028,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Vietnam",
+   "year": "2021",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Reg.",
+    "HA"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Support local RA to provide Fugacar Safety report with list of AEs from 1995-2021 to submit to local Health Authority",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "Yes",
+   "created": "2022-03-14T09:01:20",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:38",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1029,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Vietnam",
+   "year": "2021",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Communicate of World Patient Safety Day information around Safe Maternal and New Born care via Newsletter and communications to Vietnam Local operating company",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:20",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:39",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1026,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Vietnam",
+   "year": "2021",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Review and provide inputs for the undesirable effects of multiple promotional materials, for example: Brochure Topamax 2021, Brochure Durogesic 2021, Brochure Sporal 2021, MIMS 2021 Untracet...",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:20",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:39",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 1025,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Singapore",
+   "year": "2021",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "N/A",
+   "stakeholders": [
+    "Marketing",
+    "MAF",
+    "Reg.",
+    "CQ"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Monthly Summary of Safety Issues (listing of safety issues submitted to HA) email - July2021",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2022-03-14T09:01:20",
+   "created_by": "LMS User 01",
+   "modified": "2026-01-21T03:28:39",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10000,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "infusion related reaction with CART (RA update)",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "there are planned updates on CART in 2026. What do we know about infusion related reaction with CART, how many events are there in BeLux? This question was raised by medical advisor and sent to RA and LMS.",
+   "feedback": "RA provided the information on why this will be added as an additional ostmarketing ADR. As LMS, I provided information on how many cases of this was reported in the database.",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-22T07:44:46",
+   "created_by": "LMS User 03",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10001,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Nordics",
+   "year": "2024",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views",
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada",
+    "Rybrevant"
+   ],
+   "comments": "CoreRMP v-7 and safety veiws Q3 shared with MAF",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-22T08:21:08",
+   "created_by": "LMS User 04",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10002,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Nordics",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports",
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Sales",
+    "Reg."
+   ],
+   "products": [
+    "Icotrokinra",
+    "Tremfya"
+   ],
+   "comments": "PV insight material from KSP October update were shared with stakeholders. The material shared were cRMP, DSUR for Icotronkinra.  EU RMP, Q2 2025 safety views and WWPBRER for Tremfya.",
+   "feedback": "No feedback received",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-22T08:31:42",
+   "created_by": "LMS User 04",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10003,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Nordics",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports",
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Sales",
+    "Reg."
+   ],
+   "products": [
+    "Talquetamab"
+   ],
+   "comments": "PV insight material (KSP October update) shared with stakeholders. THE material shared was WW PBRER and a one-pager of Drug-Induced PML Safety Overview.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-22T08:44:06",
+   "created_by": "LMS User 04",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10004,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Nordics",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg."
+   ],
+   "products": [
+    "Imbruvica",
+    "Carvykti",
+    "Tecvayli",
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "From October KSP update: one-pager of Drug-Induced progressive multifocal leukoencephalopathy (PML) Safety Overview shared with stakeholders.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-22T08:47:55",
+   "created_by": "LMS User 04",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10005,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Italy",
+   "country": "Italy",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "Q4 2025 Ami/Laz Newsletter revised for sharing with MAF",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T03:08:21",
+   "created_by": "LMS User 05",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10006,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "RMP in general, Dutch Medical Information",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:05:54",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10007,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "growth accelerated and slipped capital femoral epiphysis",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Balversa safety signals growth accelerated and slipped capital femoral epiphysis PRAC assessment 9 dec",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:09:29",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10008,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "Growth accelerated and slipped capital femoral epiphysis",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Balversa safety signals growth accelerated and slipped capital femoral epiphysis PRAC assessment 9 dec",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:11:34",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10009,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Erleada safety update Q3 global LMS data",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:14:18",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10010,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Erleada safety update Q3 global LMS data",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:15:31",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:53",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10011,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Amivantamab en Lazertinib global safety update Q3 2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:17:06",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10012,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Amivantamab en Lazertinib global safety update Q3 2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:18:20",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10013,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Amivantamab Local Belgium safety update  Q3",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:20:07",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10014,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Amivantamab locale safety update Q3 Dutch",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:21:31",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10015,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Erleada (Balversa) local Belgian Safety Update Q3",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:22:58",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10017,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Erleada (Balversa) Dutch local Safety Update Q3",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:25:55",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10016,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Apalutamide local Safety Update Q3 Belgian",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:27:30",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10018,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Apalutamide local Safety Update Q3 Dutch",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:28:40",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10019,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Zytiga"
+   ],
+   "comments": "Abiraterone local Safety Update Q3 Belgian",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:29:43",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10020,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Zytiga"
+   ],
+   "comments": "Abiraterone local Safety Update Q3 Dutch",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:31:02",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10021,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Erleada Neutropenia Deep Dive presentation",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:32:35",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10022,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Erleada Neutropenia Deep Dive presentation",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:33:44",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10023,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "BeLux",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Amivantamab EU-Risk Management Plan version 6.1/ core-RMP version 8.0",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:34:49",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10024,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Netherlands",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Amivantamab EU-Risk Management Plan version 6.1/ core-RMP version 8.0",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-23T06:36:07",
+   "created_by": "LMS User 06",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10025,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Serbia, Bosnia & Herzegovina and Montenegro",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Reg."
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "LSU shared with local MAF and RA teams presentation \"Tecvayli_EU and WW PBRER_23Feb25-22Aug25_One Pager\" extracted from IPV Knowledge sharing platform on 30-Dec-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-30T07:39:36",
+   "created_by": "LMS User 07",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10026,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Serbia, Bosnia & Herzegovina and Montenegro",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Stelara"
+   ],
+   "comments": "LSU shared with local MAF team the Safety Views Report for drug Stelara (for Q3 2025) extracted from the IPV Knowledge Sharing Platform on 20-Dec-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-30T07:44:00",
+   "created_by": "LMS User 07",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10027,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Serbia, Bosnia & Herzegovina and Montenegro",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Tremfya"
+   ],
+   "comments": "LSU shared with local MAF team the Safety Views Report for drug Tremfya (for Q3 2025) extracted from the IPV Knowledge Sharing Platform on 30-Dec-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-30T07:44:50",
+   "created_by": "LMS User 07",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10028,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Serbia, Bosnia & Herzegovina and Montenegro",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "LSU shared with local MAF the Safety Views Report for drug Spravato for Q1-Q3 2025 extracted from the IPV Knowledge Sharing Platform on 30-Dec-2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-30T07:51:45",
+   "created_by": "LMS User 07",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10029,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Serbia, Bosnia & Herzegovina and Montenegro",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "LSU shared with local MAF and RA teams presentations \"Erleada Neutropenia Deep Dive presentation Nov2025\" and \" Erleada EU RMP update V8.3 Nov 25 one pager\", extracted from Knowledge Sharing Platform on 30-Dec-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2025-12-30T07:57:32",
+   "created_by": "LMS User 07",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10030,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views",
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "HEMAR"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Core LMS materials from KSP: 1. amivantamab_lazertinib_safety viewes_Q1 2025; 2. amivantamab_lazertinib_safety viewes_Q2 2025; 3. amivantamab_lazertinib_safety viewes_Q3 2025; 4. rybrevant_rmp_key_safety_messages",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:12:20",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10031,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views",
+    "RMP & (C)ARMAs",
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "HEMAR"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Core LMS materials from KSP: 1. erleada_corermp_v8_12_november; 2. erleada_eu_rmp_update_v8_3_nov; 3. erleada_safety_views_Q3 2025; 4. erleada_neutropenia_deep_dive_",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:21:30",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10032,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "HEMAR",
+    "MAF"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "Core LMS materials from KSP: 1. Spravato_Medical training_Global MAF; 2. spravato_controlled_access_program; 3. spravato_safety_views_maf_Q1-Q3 2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:24:39",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10033,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports",
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "HEMAR"
+   ],
+   "products": [
+    "Tremfya"
+   ],
+   "comments": "Core LMS materials from KSP: 1. tremfya_eu_rmp_version_12_1_au; 2. tremfya_wwpbrer_13_jul_2024; 3. tremfya_quarterly_safety_views_Q2 2025; 4. tremfya_quarterly_safety_views_Q3 2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:30:15",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10034,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "HEMAR"
+   ],
+   "products": [
+    "Stelara"
+   ],
+   "comments": "Core LMS materials from KSP: 1. stelara_safety_views_worldwide_Q3 2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:32:46",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10035,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "HEMAR",
+    "MAF"
+   ],
+   "products": [
+    "Imbruvica"
+   ],
+   "comments": "Core LMS materials from KSP: 1. imbruvica_safety_views_Q4 2024",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:34:24",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10036,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material",
+    "Aggreg. Reports",
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "HEMAR",
+    "MAF"
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "Core LMS materials from KSP: 1. tecvayi_eu_and_ww_pbrer_23feb2; 2. tecvayli_and_talvey_safety_views; 3. tecvayli_eu_and_ww_pbrer_23feb; 4. safety_snapshot_tecvayli_and_talvey",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:35:38",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10037,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "HEMAR"
+   ],
+   "products": [
+    "Tremfya",
+    "Icotrokinra"
+   ],
+   "comments": "Core LMS materials from KSP: 1. eadv_congress_2025_key_insight",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:39:16",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10038,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Bulgaria",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material",
+    "RMP & (C)ARMAs",
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "HEMAR",
+    "MAF"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "Core LMS materials from KSP: 1. carvykti_crmp_v6_0_april_2025; 2. carvykti_eu_rmpv6_1_apr_2025; 3. carvykti_launch_preparation_do; 4. carvykti_mnt_signal_evaluation; 5. carvykti_pbrer_28_feb_2025_27_08; 6. carvykti_signal_aml_mds_v2_mar; 7. carvykti_signal_im_enterocolit; 8. carvykti_signal_pml_v2_sep_202; 9. carvykti_signal_tcl_v2_dec_202;",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-04T15:41:59",
+   "created_by": "LMS User 08",
+   "modified": "2026-01-21T05:46:54",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10039,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "North Asia",
+   "country": "Taiwan",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "External Safety Data"
+   ],
+   "specific_icsr": "TB, HBV, and HCV reactivation",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF",
+    "Other external"
+   ],
+   "products": [
+    "Immunology"
+   ],
+   "comments": "Shared an article with MAF, which was also provided to the Taiwan Psoriasis Association to support their evaluation of the strategy for waiving TB, HBV, and HCV testing requirements in Taiwan.",
+   "feedback": "",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2026-01-04T22:55:34",
+   "created_by": "LMS User 09",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10040,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Gulf",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "HCPs"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "After a year of follow-up with the Medical and Commercial teams, the LMS team successfully re-engaged externally by delivering Safety Concerns Training at Al Amal Hospital, the largest psychiatric hospital in the UAE. This marks the second training conducted for Spravato since its launch across all Gulf countries.\nThe training was initiated following a request from the Sales Manager to address the growing need for education, as many new nurses have joined the hospital and existing staff required a refresher on Risk Minimization Measures (RMMs) and safety concerns management.\nThe presentation emphasized:\n\nThe responsibility of healthcare professionals (HCPs) in Adverse Event (AE) reporting.\nAwareness of Spravato’s safety concerns.\nThe additional RMMs implemented by the company to ensure patient safety.\n\nAudience: Over 20 nurses, including the Head of the Nursing Department.",
+   "feedback": "This engagement reinforced LMS’s role as a key representative of the medication’s safety profile during external interactions with HCPs. The feedback from the meeting was highly positive, strengthening LMS’s position within the team. Based on this success, LMS has been invited to conduct another training in Oman.",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T02:14:14",
+   "created_by": "LMS User 10",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10041,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Gulf",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "HCPs"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "Based on the Sales Manager’s request, a Safety Concerns Training session was delivered at Al Masarra Hospital, the largest psychiatric hospital in Oman. This marks the first training conducted for Spravato since its launch in Oman.\nThe training was initiated to address the growing need for education, as many new nurses have joined the hospital and existing staff required a refresher on Risk Minimization Measures (RMMs) and safety concerns management.\nKey Focus Areas\n\nThe responsibility of healthcare professionals (HCPs) in Adverse Event (AE) reporting.\nAwareness of Spravato’s safety concerns.\nThe additional RMMs implemented by the company to ensure patient safety.\n\nAudience\nThe session was attended by over 40 healthcare professionals, including physicians, pharmacists, and nurses. The training emphasized our shared responsibility as a pharmaceutical company and HCPs to ensure patient safety, awareness of the medication’s safety profile, and the importance and value of reporting safety events.\nPost-Training Engagement\nFollowing the training, we engaged with the Head of Clinical Pharmacy, Head of Nursing, and Physicians, discussing:\n\nWays to increase awareness of safety reporting.\nGathering feedback on patient needs.\nExploring additional measures to enhance value.",
+   "feedback": "The feedback from the training at Al Masarra Hospital was highly positive. Attendees appreciated the active involvement of the company’s safety team in raising awareness about our shared responsibility for safety reporting to ensure patient safety.\nFollowing this session, the Sales Manager informed us that the local Health Authority (HA) in Oman has raised several questions regarding:\n\nWhat is Spravato?\nWhy does it have multiple educational materials?\nWhy is training required for nurses and HCPs?\nWhy must patients receive the medication in a hospital setting under HCP supervision?\n\nTo address these concerns, the Sales Manager requested that we prepare and deliver a specific presentation covering:\n\nSpravato’s safety profile, summarizing key safety concerns.\nHow the company designed additional Risk Minimization Measures (aRMMs) to manage these concerns.\nThe LMS structure and the engagement activities conducted by the safety team with external HCPs to increase awareness and ensure patient safety as part of J&J’s commitment.",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2026-01-05T02:23:29",
+   "created_by": "LMS User 10",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10042,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Gulf",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Sales"
+   ],
+   "products": [
+    "PAH"
+   ],
+   "comments": "Throughout 2025, LMS has been actively exploring Pulmonary Arterial Hypertension (PAH) patient needs and identifying gaps in the patient journey that impact patient safety. The most significant concern identified was medication adherence for PAH treatments (Opsumit & Uptravi), primarily due to challenges in managing adverse events such as headache and gastrointestinal (GIT) side effects.\nProposed Solution\nDuring the cycle meeting, LMS presented a comprehensive plan to:\n\nCreate a patient support group that brings together well-controlled, stable patients with uncontrolled patients.\nFacilitate experience sharing on:\n\nHow to adhere to prescribed medications.\nHow to manage adverse events effectively.\n\n\n\nRationale\nFor years, communication and training efforts have focused on HCPs (physicians and nurses). Despite this, many patients continue to face challenges with disease management and medication adherence. HCPs and nurses often struggle to convey practical strategies for managing the disease and its associated adverse events.\nPurpose of the initiative:\n\nDirectly engage patients through:\n\nPatient Support Program Nurse\nTrained Patient Ambassador\nPatient Engagement Manager",
+   "feedback": "The Sales, Marketing, and Medical teams fully supported the proposal, recognizing its potential to:\n\nImprove adherence and compliance.\nEncourage HCPs to initiate Uptravi for eligible patients who may be hesitant due to AE concerns.\nSupport dose optimization for patients requiring effective therapeutic levels.\nDeliver a positive impact on patient safety and, if successful, drive improved outcomes and business performance.\nCreate significant strategic value at this time, especially with the launch of Opsynvi in the UAE, by reinforcing J&J’s commitment to patient-centric care and safety.",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-05T02:38:25",
+   "created_by": "LMS User 10",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10043,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q3",
+   "activity_type": "Presentation",
+   "content": [
+    "ICSR/AE/SS/Signal",
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "CVT/IBVT"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "AT-CVT-Meeting (23SEP2025): presentation of the current safety profile (safety views: monthly, local and global overview).",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T05:47:19",
+   "created_by": "LMS User 11",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10044,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "CVT/IBVT"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "AT-CVT-Meeting (22OCT025): local and global safety views overview of AE-profile.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T05:53:45",
+   "created_by": "LMS User 11",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10045,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "CVT/IBVT"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "AT-CVT-Meeting (02DEC2025): local and global safety views overview of AE-profile. Refresher AE-reporting process.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T05:58:24",
+   "created_by": "LMS User 11",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10046,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "CVT/IBVT"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "AT-CVT-Meeting (16DEC2025): local and global safety views overview of AE-profile.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:00:34",
+   "created_by": "LMS User 11",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10047,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Safety Views",
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "OOS + LOE",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "CQ"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "Alignment PQC #90000383303_20251026024: Clarify why an additional PQC investigation was opened for an OOS product (AT PM case) despite product being OOS -> LSMV and safety views data for PM OOS cases from DE were provided for comparison.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:23:13",
+   "created_by": "LMS User 11",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10048,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Czech Republic",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Sales",
+    "Reg."
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "RMP key safety message",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:25:44",
+   "created_by": "LMS User 12",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10049,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Czech Republic",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Sales"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Safety views data up to Q3",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:27:02",
+   "created_by": "LMS User 12",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10050,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Czech Republic",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Sales"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "Safety views data up to Sep2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:27:57",
+   "created_by": "LMS User 12",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10051,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Czech Republic",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Reg.",
+    "Sales",
+    "Marketing"
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "latest PBRER",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:29:27",
+   "created_by": "LMS User 12",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10052,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Czech Republic",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Reg.",
+    "Sales",
+    "Marketing"
+   ],
+   "products": [
+    "Stelara"
+   ],
+   "comments": "Safety views data up to Sep2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:30:35",
+   "created_by": "LMS User 12",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10053,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Czech Republic",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Marketing",
+    "MAF",
+    "Reg.",
+    "Sales"
+   ],
+   "products": [
+    "Tremfya"
+   ],
+   "comments": "Safety views data up to Sep2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:31:14",
+   "created_by": "LMS User 12",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10054,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Czech Republic",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Sales"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "EU RMP update v8.3",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-05T06:32:11",
+   "created_by": "LMS User 12",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10055,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Nipocalimab"
+   ],
+   "comments": "resentation of safety views to local MAF colleagues",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-07T03:20:19",
+   "created_by": "LMS User 13",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10056,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "AER 20251028108 anaphylactic reaction",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Nipocalimab"
+   ],
+   "comments": "discussion with Mrdical Manager about AER 20251028108 anaphylactic reaction",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-07T03:22:10",
+   "created_by": "LMS User 13",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10057,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views",
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "na",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Immunology"
+   ],
+   "comments": "Regional PMC colleague asked about Case LL on a local registry BiKeR including Simponi (Golimumab). Data was checked in safety views and shared with colleague.",
+   "feedback": "Thank you so much. I would appreciate being kept updated throughout the year.",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-07T03:49:27",
+   "created_by": "LMS User 14",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10058,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Israel",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports",
+    "Core LMS Material",
+    "ICSR/AE/SS/Signal",
+    "Safety Views",
+    "RMP & (C)ARMAs",
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "CVT/IBVT",
+    "MAF",
+    "Marketing",
+    "Sales",
+    "Reg."
+   ],
+   "products": [
+    "Carvykti",
+    "Talquetamab",
+    "Tecvayli",
+    "Spravato",
+    "Tremfya",
+    "Rybrevant"
+   ],
+   "comments": "As part of the Israel LSU safety initiative of \"Quarterly Safety Newsletter\" for 2025, the last newsletter of the year for Q4 was distributed to the local stakeholders containing diverse safety materials.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-07T08:46:22",
+   "created_by": "LMS User 15",
+   "modified": "2026-01-21T05:46:55",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10060,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Israel",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Nipocalimab"
+   ],
+   "comments": "Safety Views of Q4 2025 for Nipocalimab were shared with the local MAF team.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-07T08:47:27",
+   "created_by": "LMS User 15",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10059,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Austria: quarterly Safety Views extract/slides on previously agreed upon parameters. Impact: Give local stakeholders a regular update on local safety data for Erleada.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-08T04:15:58",
+   "created_by": "LMS User 16",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10061,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Switzerland: quarterly Safety Views extract/slides on previously agreed upon parameters. Impact: Give local stakeholders a regular update on local safety data for Erleada.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-08T04:17:07",
+   "created_by": "LMS User 16",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10062,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Austria: quarterly Safety Views extract/slides on previously agreed upon parameters. Impact: Give local stakeholders a regular update on global and local safety data for Balversa.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-08T04:17:55",
+   "created_by": "LMS User 16",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10063,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Switzerland: quarterly Safety Views extract/slides on previously agreed upon parameters. Impact: Give local stakeholders a regular update on global and local safety data for Balversa.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-08T04:18:45",
+   "created_by": "LMS User 16",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10064,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "NEMA",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "shared the changes in the core RMP V.7 highlighting that the important identified risk ‘Neurologic toxicity, including ICANS’  has been updated as \" ICANS\" only \nand accordingly the patient card has been updated to reflect this",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-08T04:35:32",
+   "created_by": "LMS User 17",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10065,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Baltics",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views",
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "Ami/Laz Core team update shared with MAF. Also EU RMP update and 2025 Q3 safety views information shared. Product is in launch status. Launch planned in Q2/Q3.",
+   "feedback": "Not yet",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-08T05:32:25",
+   "created_by": "LMS User 18",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10066,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Marketing"
+   ],
+   "products": [
+    "Nipocalimab"
+   ],
+   "comments": "Discussion with BUD and Marketing Team during IMAAVY check-in call about safety views overview Q4 2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-08T07:05:57",
+   "created_by": "LMS User 13",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10067,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "Japan",
+   "country": "Japan",
+   "year": "2025",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "Bosentan"
+   ],
+   "comments": "Consultation on the revision of the package insert of Tracleer is ongoing. The Labeling Group requested J-LSU (CM,RM) to provide post-marketing safety information (line listing and literature information) among the inquiries from the regulatory authority, and we provided the relevant information.",
+   "feedback": "NA",
+   "material_external": "Yes",
+   "product_launch": "No",
+   "created": "2026-01-08T19:02:00",
+   "created_by": "LMS User 19",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10068,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "Japan",
+   "country": "Japan",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Other external"
+   ],
+   "products": [
+    "Trevicta / Invega Trinza (PP3M)",
+    "Xeplion / Invega Sustenna (PP1M)"
+   ],
+   "comments": "Based on the reexamination application documents submitted to the regulatory authorities, the regulatory authorities confirmed that there was no problem in the safety profile, the approval condition (formulation of J-RMP) was lifted, and all local risk minimization activities were completed. Although this activity was completed, the LSO formally requested the Safety Control Officer of the co-promotion company in writing to continue the safety control system adequately from now on after explaining it in advance, and the co-promotion company accepted it.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T00:56:05",
+   "created_by": "LMS User 20",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10069,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "NEMA",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "Discussion of RMP Spravato implementation in iraq. Explanation of the additional risk minimization we have.\nthe request came from MAF medical director and the Medical advisor back up.",
+   "feedback": "another call has been scheduled with more stakeholders for further discussion.",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T01:17:07",
+   "created_by": "LMS User 17",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10070,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "AT: Quarterly Safety views overview on previously agreed parameters eg IRR (08JAN2026). Impact: give local stakeholders a regular update on current safety data for Darzalex.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T01:57:25",
+   "created_by": "LMS User 11",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10071,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "CH: Quarterly Safety views overview on previously agreed parameters eg IRR (08JAN2026). Impact: give local stakeholders a regular update on current safety data for Darzalex.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T01:58:23",
+   "created_by": "LMS User 11",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10072,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "Safetry views presentation Q4 2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T02:20:58",
+   "created_by": "LMS User 13",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10073,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Marketing"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "information of Marketing Lead ad BUD about Safetry views presentation Q4 2025",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T02:22:22",
+   "created_by": "LMS User 13",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10074,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "N/A",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Sales",
+    "Reg."
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "Presentation titled \"Darzalex_EURMP_V12.1_10-Mar-2025\" from KSP was shared with local hematology team on 29-Sep-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T05:04:04",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10075,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "N/A",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Sales",
+    "Reg."
+   ],
+   "products": [
+    "Imbruvica"
+   ],
+   "comments": "One page summary for EU RMPv23.3 which was prepared by Imbruvica Core Team was shared with local hematology and RA team on 29-Sep-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T05:06:34",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10076,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "RMP & (C)ARMAs",
+    "ICSR/AE/SS/Signal",
+    "Safety Views",
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Sales"
+   ],
+   "products": [
+    "Nipocalimab"
+   ],
+   "comments": "A new BUD started on the team and I conducted a comprehensive Nipocalimab safety onboarding",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T05:25:25",
+   "created_by": "LMS User 13",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10077,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "N/A",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Safety Views presentation for Q2 prepared by Balversa Core Team was shared with Medical Science Liaison.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T08:11:50",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10078,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q2",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "N/A",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Safety Views presentation for Q1 prepared by Balversa Core Team was shared with Medical Science Liaison.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T08:12:40",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:56",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10079,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "N/A",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Safety Views presentation for Q3 prepared by Balversa Core Team was shared with Medical Science Liaison.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T08:13:44",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10080,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg."
+   ],
+   "products": [
+    "Talquetamab"
+   ],
+   "comments": "Summary for talquetamab EU Risk Management Plan version 3.3 was shared with MAF and Marketing. Document titled Talvey - EU RMP V3.3 - Safety Messages was shared with local hemato team on 30-Dec-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T08:48:27",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10081,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing"
+   ],
+   "products": [
+    "Tecvayli",
+    "Talquetamab"
+   ],
+   "comments": "Presentation \"Talvey and Tecvayli_Tumour Flare Reaction Signal Training for LMS_28Aug2025\" from the KSP which was prepared by the Core Team was shared with MAF and Marketing hematology team on 30-Dec-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T08:50:27",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10082,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views",
+    "ICSR/AE/SS/Signal",
+    "External Safety Data"
+   ],
+   "specific_icsr": "reaction site erythema",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Tremfya"
+   ],
+   "comments": "AT: colleague asks about frequency of reaction site erythema under Tremfya. Safety Views and Eudravigilance database checked for data and reference to SmPC and ADR frequency was provided.",
+   "feedback": "Thank you, that is helpful!",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T08:52:45",
+   "created_by": "LMS User 14",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10083,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs",
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Summary for Erleada EU RMPv8.3 was shared with Medical Manager. Erleada EU RMP update V8.3 Nov 25 - One Pager was extracted from the KSP and shared with local onco MAF team. Presentation titled \"Erleada Neutropenia Deep Dive presentation NOV-2025\" was also shared with medical Manager on 30-Dec-2025.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T08:54:19",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10084,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Sales"
+   ],
+   "products": [
+    "Imbruvica"
+   ],
+   "comments": "Switzerland Q4/2025 - Quarterly Safety Views extract/slides on previously agreed upon parameters to give local stakeholders a regular update on global and local safety data for Imbruvica",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T09:58:02",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10085,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views",
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "GCO/MAO",
+    "MAF",
+    "Marketing",
+    "Sales"
+   ],
+   "products": [
+    "Imbruvica"
+   ],
+   "comments": "Austria Q4/2025 - Quarterly Safety Views extract/slides on previously agreed upon parameters to give local stakeholders a regular update on global and local safety data for Imbruvica & provide Core LMS Material",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:11:55",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10086,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Sales"
+   ],
+   "products": [
+    "Talquetamab"
+   ],
+   "comments": "Austria: Provide Core LMS Material: RMP v3.3 One Pager, PBRER no 4 One Pager, PML One Pager",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:17:28",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10087,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Sales"
+   ],
+   "products": [
+    "Talquetamab"
+   ],
+   "comments": "Switzerland: Adjust Core Material (RMP v3.3, PML One Pager) with Swiss specific information and share with stakeholders",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:19:50",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10088,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg.",
+    "Sales"
+   ],
+   "products": [
+    "Talquetamab"
+   ],
+   "comments": "Switzerland Q4/2025 - Quarterly Safety Views extract/slides on previously agreed upon parameters to give local stakeholders a regular update on global and local safety data for Talquetamab",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:21:31",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10089,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Marketing",
+    "Sales",
+    "MAF"
+   ],
+   "products": [
+    "Talquetamab"
+   ],
+   "comments": "Austria Q4/2025 - Quarterly Safety Views extract/slides on previously agreed upon parameters to give local stakeholders a regular update on global and local safety data for Talquetamab",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:23:01",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10090,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Poland",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF",
+    "Other internal"
+   ],
+   "products": [
+    "Lazertinib",
+    "Rybrevant"
+   ],
+   "comments": "Lazertinib RMP v.2.1 key safety messages, One Pager and Amivantanab/lazertinib PV News were shared with Medical Managers.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T10:30:06",
+   "created_by": "LMS User 23",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10091,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Poland",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material",
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Erleada EU RMP update V8.3 Nov 25 one pager shared with the Medical Managers.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:40:54",
+   "created_by": "LMS User 23",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10092,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Poland",
+   "year": "2025",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs",
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Other internal"
+   ],
+   "products": [
+    "Imbruvica"
+   ],
+   "comments": "Erleada EU RMP update V8.3 Nov 25 one pager was shared with Medical Managers via e-mail.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:42:46",
+   "created_by": "LMS User 23",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10093,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Poland",
+   "year": "2025",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs",
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "Darzalex_EURMP_V12.1_10-Mar-2025 presentation was shared with Medical Managers via e-mail.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:45:15",
+   "created_by": "LMS User 23",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10094,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "Lichenoid Eruption",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Safety signal Lichenoid Eruption was discussed with Medical Manager, presentation \"Erleada_Signal Lichenoid Eruption_one pager_Sep 2025\" from the KSP that was prepared by the Core Team was shared with Medical Manager afterwards.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:53:23",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10095,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Slovenia",
+   "year": "2025",
+   "quarter": "Q3",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Balversa/ Erfandel"
+   ],
+   "comments": "Presentation \"Balversa PBRER 12OCT24-11APR25 summary JUL202\" from the KSP that was prepared by Core Team was shared with Medical Science Liaison.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T10:59:59",
+   "created_by": "LMS User 21",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10097,
+   "title": "PV Insights",
+   "region": "AMERICAS",
+   "cluster": "North America",
+   "country": "Canada",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Reg."
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "Provided an overview of the Controlled Distribution Program (CDP) in Canada which is a local ARMA for SPRAVATO and background on the related HA commitments.  Also provided an overview of Controlled Access Programs in other countries using information from the KSP (PowerPoint - Spravato Controlled Access Program (CAP) — Global Country Summaries). \nPresentation and discussion with new Neuroscience Reg. Affairs Assoc. Dir. and Reg. Affairs Assoc.  The Reg. Affairs Assoc. Dir. is new to the product.",
+   "feedback": "Overview was helpful to Reg. to understand the CDP commitment for the product, which facilitated the planned updates to the CDP Vendor agreements and related procedures and follow-up discussions on the current CDP.",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T14:44:34",
+   "created_by": "LMS User 24",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10096,
+   "title": "PV Insights",
+   "region": "AMERICAS",
+   "cluster": "North America",
+   "country": "Canada",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "Topiramate"
+   ],
+   "comments": "Information provided to RMSL regarding a response to a local HA request for milestones and/or reporting timelines on effectiveness checks related to ARMAs.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T14:53:30",
+   "created_by": "LMS User 24",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10098,
+   "title": "PV Insights",
+   "region": "AMERICAS",
+   "cluster": "North America",
+   "country": "Canada",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "CVT/IBVT"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "During SPRAVATO Patient Value Team (PVT) participated in a discussion about the SPRAVATO Controlled Distribution Program.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T14:59:11",
+   "created_by": "LMS User 24",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10099,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Core LMS Material",
+    "LMS Education",
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Russia: LMS and local MAF are discussing the upcoming workshop for MSLs due to launch of product",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:06:07",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10100,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Russia: LMS and local MAF are discussing registration within the framework of the EAEU rules and EAEU RMP preparation",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:07:37",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10101,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF",
+    "Reg."
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Russia: LMS and local MAF are discussing registration process within the framework of the EAEU rules, EAEU RMP preparation and Epidemiology",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:10:36",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10102,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Reg."
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Russia: LMS and local RA are discussing 1st HAQ on Rybrevant within the framework of the EAEU rules",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:11:40",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10103,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Russia: LMS and local MAF are discussing 1st HAQ on Rybrevant within the framework of the EAEU rules: EAEU RMP",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:13:17",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10104,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "HA"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Russia: LMS responded to LHA on 1st HAQ on Rybrevant within the framework of the EAEU rules: EAEU RMP update",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:14:12",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10105,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs",
+    "Clinical Trials & Other Studies",
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Reg.",
+    "MSO",
+    "GMO"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Russia: LMS and Global Team have discussed 1st HAQ on Rybrevant within the framework of the EAEU rules: EAEU RMP update",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:15:23",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10106,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Reg."
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "Russia: LMS and local RA discussing 1st HAQ on Dara within the framework of the EAEU rules: EAEU RMP update",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:17:25",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10107,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "HA"
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "Russia: LMS responded to LHA on 1st HAQ on Dara within the framework of the EAEU rules: EAEU RMP update",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:20:46",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10108,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "HA"
+   ],
+   "products": [
+    "Neurosciences"
+   ],
+   "comments": "Russia: LMS responded to LHA on 1 HAQ on Plegridy (Biogen) within the framework of the EAEU rules: there was provided the cover letter and response on the HAQ",
+   "feedback": "LHA requested to provide PSUR again",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T16:21:37",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:57",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10109,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "HA"
+   ],
+   "products": [
+    "Neurosciences"
+   ],
+   "comments": "Russia: LMS responded to LHA on 2 HAQ on Plegridy (Biogen) within the framework of the EAEU rules: there was provided PSUR again as per request",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T16:24:46",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10110,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "HA"
+   ],
+   "products": [
+    "Neurosciences"
+   ],
+   "comments": "Russia: LMS responded to LHA on 3 HAQ on Plegridy (Biogen) within the framework of the EAEU rules: local addendum to PSUR (critical analysis of the benefit-risk balance of the medicinal product, taking into account all new safety data and the cumulative impact of these data on the safety or efficacy profile of the medicinal product )",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T16:25:35",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10111,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs",
+    "Clinical Trials & Other Studies",
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Reg.",
+    "MSO",
+    "GMO"
+   ],
+   "products": [
+    "Opsumit/ Zependo"
+   ],
+   "comments": "Russia: LMS and Global Team have discussed 1st HAQ on Rybrevant within the framework of the EAEU rules: EAEU RMP update",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-09T16:28:06",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10112,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "HA"
+   ],
+   "products": [
+    "Neurosciences"
+   ],
+   "comments": "Russia: LMS responded to LHA on HAQ on Spinraza (Biogen) within the framework of the EAEU rules: EAEU RMP update",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T16:29:02",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10113,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MSO",
+    "Other external",
+    "Reg."
+   ],
+   "products": [
+    "Neurosciences"
+   ],
+   "comments": "Russia: LMS and the global Biogen Team have discussed the HAQ on Spinraza (Biogen) within the framework of the EAEU rules: EAEU RMP update, what specifically should be updated within the RMP and by whom from global team.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T16:30:20",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10114,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "Russia & CIS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Reg.",
+    "Other external"
+   ],
+   "products": [
+    "Neurosciences"
+   ],
+   "comments": "Russia: LMS and the global Biogen Team have discussed the HAQ on Spinraza (Biogen) within the framework of the EAEU rules: EAEU RMP update. LMS translate Russian EAEU RMP to English for Biogen and then translate to Russian EAEU RMP to comply the requirement. Medical writing",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-09T16:31:59",
+   "created_by": "LMS User 25",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10115,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "Introduction of LMS and RML role to GMAL",
+   "feedback": "Ad hoc meeting to be scheduled depending on needs from both sides",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T15:39:49",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10117,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "GMO"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Presentation to new MSO of Apalutamide (Erleada) and SAS Lead of the LMS new organizational model, RML role and flow of information. Discussion on win-win opportunities and PSR participation. Presentation of examples of LMS materials related to safety signals created and presented by LMS expert to local J&J stakeholders",
+   "feedback": "Very positive feedback. Agreed to have every 2 months a call to discuss details from SMT topics, LMS local insights and strategic MSO/SAS information",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T15:45:23",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10116,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "CVT/IBVT"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "Connection at ESMO 2025 with EDTL Rybrevant and Lazcluze and discussion on the great interaction being done by LMS core team with MAF EMEA. Explanation of the RML role",
+   "feedback": "Feedback is very positive on current interactions being done at EMEA level and positive feedback from the awareness of global interactions MAF-LMS",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T15:48:29",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10118,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "ESMO 2025 discussion with EMEA SKL on LMS new organizational model and RML role. Highlighting that regional interactions are driven by core team lead (EMEA)",
+   "feedback": "Very positive feedback of the collaboration with LMS organization. Open to future opportunities e.g. to have a AE slide being presented by EMEA core team lead or core team members in congresses pre-conferences",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:27:14",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10120,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "TAR-200"
+   ],
+   "comments": "Presentation to GMAL of the LMS organization model and RML role. Discussion on flow of information and future possibilities of collaboration for TAR-200 launch (from a global aspect namely with regards to local safety insights informing global plans)",
+   "feedback": "Positive feedback to see PV/LMS attending congresses, prioritizatizing J&J MAF stakeholders and wanted to be involved in pre-launch activities",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-11T16:30:04",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10119,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "TAR-200"
+   ],
+   "comments": "Introduction to Global Medical Director of LMS new organizational model and discussion of future global MAF trainings to prepare overall launch of TAR-200",
+   "feedback": "Positive feedback of PV adapting to meet business needs. Agreement to schedule a call to discuss opportunities to collaborate using local safety insights",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:32:14",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10121,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Interaction during ESMO presenting LMS organization to EMEA SKL Prostate Cancer (core team lead EMEA aware). Goal to discuss call where opportunities for collaboration would be discussed",
+   "feedback": "Positive feedback on the interest of LMS to start collaborating with EMEA MAF (core team lead driven). Scheduled meeting to present core team lead",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:34:37",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10122,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "Discussion with EMEA MA on the COPERNICUS study (interaction during ESMO). LMS support being driven by core team",
+   "feedback": "No specific feedback as the focus was the discussion on the COPERNICUS sites being open to EMEA and not only US",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:36:31",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10123,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "ESMO interactions - discussion with Global SRP of COCOON to discuss local safety implications of the study. The new cohorts of the study were also discussed and SRP will change in the next months",
+   "feedback": "Very positive feedback from the past interactions with LMS and RML. COCOON implementation is facing some challenges and local safety insights are very helpful to provide a better OpCO picture to GMA",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:38:52",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10124,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "TAR-200"
+   ],
+   "comments": "ESMO interaction with MA to present new LMS model and possibility of collaboration in TAR-200 pre-launch",
+   "feedback": "Meeting to be schedule with RML and CTL EMEA",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:40:32",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10125,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Meeting with RML and CTL EMEA with EMEA SKL (RML to act as facilitator given previous MAF experience). Agreement to have CTL EMEA attending EMAPT to have formal introduction and discuss regular attendance to MAF FN",
+   "feedback": "Agreement by SKL to have EMEA CTL involved in initiatives where local safety expertise is required. 1st formal intro to EMEA MAF/IBVT will be arranged",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:42:51",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10126,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "GMO"
+   ],
+   "products": [
+    "Oncology",
+    "Rybrevant",
+    "Lazertinib",
+    "TAR-200",
+    "Erleada"
+   ],
+   "comments": "Discussion with TASH on successes presented to Steve by the SOT core teams. Topics discussed: PCa, BCa and LuCa plans for 2026; LMS TA learner journey and possibility to co-create training for TAR-200 with MSO; picture on LMS interactions numbers",
+   "feedback": "For PCa focus will be PROTEUS and ATLAS; recommendation to include MSO TAR-200 in LMS TA Learner Journey for TAR-200. Feedback provided also from DILI Lazertinib global discussion after escalation from the SMT",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:48:58",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10127,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Other internal"
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Connection with Business Intelligence to explain LMS organization model and discuss information needs.",
+   "feedback": "Agreement to have RML included as attendee in BI forums and to be included in distribution list to receive relevant business insights and congresses BI trainings",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:51:23",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10128,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Reg."
+   ],
+   "products": [
+    "TAR-200"
+   ],
+   "comments": "Presentation to GRL of LMS organization model and RML role.",
+   "feedback": "Agreed to connect ad hoc when collaboration opportunities appear",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:53:03",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:58",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10129,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Reg."
+   ],
+   "products": [
+    "Erleada"
+   ],
+   "comments": "Presentation to GRL of LMS organizational model and RML role. Discussion on Reg DLs and need to be included in global ones to receive in a timely manner relevant information for LMS",
+   "feedback": "Agreed to connect ad hoc when needed",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:54:32",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10130,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Reg."
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Introduction to GRL and EMEA contact points of LMS organization model and RML role.",
+   "feedback": "No concrete feedback. New interaction to be done 2026",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:55:51",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10131,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Oncology",
+    "Erleada"
+   ],
+   "comments": "ESMO 2025 interaction - Discussion with Global commercial Erleada plans for PROTEUS and ATLAS launch and discussion on local needs for more education in rash",
+   "feedback": "Good feedback. No regular connections to be scheduled, but instead on ad hoc basis depending on both sides needs",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T16:58:29",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10132,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Marketing"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib",
+    "Oncology"
+   ],
+   "comments": "ESMO 2025 interaction. Discussion with VP Global Commercial Leader for Lung Cancer on LMS organization model and RML role. Discussion on plans for amivantamab future indications",
+   "feedback": "Positive feedback to see LMS attending congresses",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T17:00:29",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10133,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Oncology",
+    "Erleada"
+   ],
+   "comments": "ESMO 2025 interaction. Discussion with EDTL on his involvement with pasritamig CDP and future plans",
+   "feedback": "No specific actions agreed. Good feedback on RML creation role",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T17:02:46",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10134,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "ESMO 2025 interaction. Introduction to Global Commercial Leader for Ami. Presentation of LMS organization and RML role",
+   "feedback": "no agreed action. Future connections to be scheduled as needed",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T17:04:37",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10135,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Oncology"
+   ],
+   "comments": "ESMO 2025 interaction. Presentation to MAF Hub Director of the LMS organization and RML model.",
+   "feedback": "Good to see LMS in congresses and discussion on future role of LMS in MAF narratives",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T17:06:22",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10136,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "TAR-200"
+   ],
+   "comments": "ESMO 2025 interaction. Discussion with SKL and global MAF strategy on narratives being created for TAR-200 launch. Brief presentation of LMS organization and RML role",
+   "feedback": "Agreed to connect mid 2026",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-11T17:07:48",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10137,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Clinical Trials & Other Studies"
+   ],
+   "specific_icsr": "AESI",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Tremfya"
+   ],
+   "comments": "MAF colleague ask about AESIs for Tremfya and watchlist for an ongoing study. Further details and background info shared with colleague.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-12T07:34:27",
+   "created_by": "LMS User 14",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10138,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "AT: quarterly Safety Views extract/slides on previously agreed upon parameters. Impact: Give local stakeholders a regular update on local safety data for Ami and Laz.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-12T08:25:43",
+   "created_by": "LMS User 16",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10139,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Iberia",
+   "country": "Spain",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Presentation",
+   "content": [
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "General"
+   ],
+   "comments": "Specific training in Pharmacovigilance for new employees of the Medical Department / Spain",
+   "feedback": "yes",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-12T08:32:02",
+   "created_by": "LMS User 27",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10140,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Sales"
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "AUSTRIA: LMS Global Core Team One Pager Signal PML & One Pager PBRER No.6 Teclistamab shared with local stakeholder",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-13T08:29:19",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10141,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Sales"
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "Switzerland: LMS Global Core Team One Pager Signal PML adjusted with Swiss specific information & shared with local stakeholder",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-13T08:31:18",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10142,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Sales"
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "Switzerland Q4/2025 - Quarterly Safety Views extract/slides on previously agreed upon parameters to give local stakeholders a regular update on global and local safety data for Teclistamab",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-13T08:33:57",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10143,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Mid-Size Markets",
+   "country": "Alpines",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Sales"
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "Austria Q4/2025 - Quarterly Safety Views extract/slides on previously agreed upon parameters to give local stakeholders a regular update on global and local safety data for Teclistamab",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-13T08:34:46",
+   "created_by": "LMS User 22",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10144,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "China",
+   "country": "China",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "Reg.",
+    "MAF",
+    "Other internal"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "LMS led a discussion with China RA, MAF, and Clinical teams regarding the preparation of the China RMP for the BLA (Ami SC mono for Exon20ins 2L NSCLC). LMS presented the recent updates to the core RMP since the last China RMP and proposed revisions to the China RMP, taking into account the current registration status in China.",
+   "feedback": "The discussion enabled the China team to gain a clear understanding of the company’s latest position and supported local input and review to ensure a high-quality update to the China RMP.",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-14T03:53:55",
+   "created_by": "LMS User 28",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10145,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "Aggreg. Reports",
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Imbruvica"
+   ],
+   "comments": "Short overview of latest PBRER, Q4 2025 analysis of Safety Views for Imbruvica, spotlight on infections and cardiac disorders",
+   "feedback": "Very interesting",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-14T04:34:59",
+   "created_by": "LMS User 29",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10146,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "Safety Views"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "CVT/IBVT",
+    "Marketing"
+   ],
+   "products": [
+    "Rybrevant"
+   ],
+   "comments": "Collaboration with local MAF colleagues from medical information and MSL to generate the 'AMInsights' -  including PV insights (based on Safety Views) regarding Rybrevant/Lazcluze - a monthly overview prepared for the local team working on Rybrevant/Lazcluze. Slides for December 2025 were presented to MAF colleagues during the TA weekly meeting and an email was sent out afterwards to MAF, commercial, marketing and CVT colleagues.\nImpact: Regular updates and insights contribute to proactive safety management, helping to identify and address potential issues early.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-14T11:37:40",
+   "created_by": "LMS User 30",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10147,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Imbruvica"
+   ],
+   "comments": "Discussion with MAF colleague on 2026 strategy, focus on Bleximinib/AML additionally to Imbruvica & Cardiotox & Infections",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-15T04:43:49",
+   "created_by": "LMS User 29",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10148,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Germany",
+   "country": "Germany",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Clinical Trials & Other Studies",
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "OLU Tecvayli for Amyloidosis",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Tecvayli",
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "Discussion with MAF colleague on increasing numbers of OLU cases for Tec for Amyloidosis patients, as only Dara is approved for that indication, request to search for clinical trials with this combination",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-15T06:46:56",
+   "created_by": "LMS User 29",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10149,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Malaysia & Brunei",
+   "year": "2025",
+   "quarter": "Q4",
+   "activity_type": "Material",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "SSI & HAQ",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "CQ",
+    "MAF",
+    "Reg."
+   ],
+   "products": [
+    "Invokana",
+    "Imbruvica"
+   ],
+   "comments": "Shared the Summary of Safety Issues for the month of December via email for cross-functional team awareness. This approach is beyond the RACI or local SOP.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-15T21:07:54",
+   "created_by": "LMS User 31",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10150,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Malaysia & Brunei",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "Tecvayli patient card",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Reg."
+   ],
+   "products": [
+    "Tecvayli"
+   ],
+   "comments": "Collaborated with Medical Affairs (MAF) to co-lead discussions on the Dissemination Plan for the Tecvayli patient card in preparation for the launch of Tecvayli in Malaysia.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-15T21:19:31",
+   "created_by": "LMS User 31",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10151,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "North Asia",
+   "country": "South Korea",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Clinical Trials & Other Studies"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "MAF",
+    "GCO/MAO"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "Cross functional discussion about PMC studies and LTFU studies for CAR-T that are required for product launch.  LMS was invited in the study discussions and provided input from the PV perspective.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "Yes",
+   "created": "2026-01-16T02:36:50",
+   "created_by": "LMS User 32",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10152,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Iberia",
+   "country": "Spain",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "ICSR/AE/SS/Signal"
+   ],
+   "specific_icsr": "Disease progression",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "CVT/IBVT"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "The Carvykti Sales and Marketing Lead requested insights on ICSR related to disease progression.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-16T07:29:16",
+   "created_by": "LMS User 33",
+   "modified": "2026-01-21T05:46:59",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10153,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Iberia",
+   "country": "Spain",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "Other Safety Insights",
+    "RMP & (C)ARMAs",
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF",
+    "Marketing",
+    "Sales"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "LMS presented in the Carvykti National Sales meeting the most updated version of the EU-RMP (some slides from Core LMS material where used for this) and made aware about how this new version will be distributed in Spain to ensure they were able to address any enquiries from HCPs. \nAdditionally, it was reinforced the usage of EZ reporter to report Carvykti cases and the specific fields to complete.",
+   "feedback": "Very positive feedback from Sales Manager and Medical Lead, several questions arose about distribution of the RMP materials and EZR usage.",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-16T07:29:36",
+   "created_by": "LMS User 33",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10154,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs",
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "GMO",
+    "MSO"
+   ],
+   "products": [
+    "PAH",
+    "Uptravi"
+   ],
+   "comments": "Quarterly connect with the new TASH for PAH - discussed the new way of interacting + the ARMAs for selexipag were discussed further - actions taken so far, new information received and action to be taken forward",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-16T07:34:39",
+   "created_by": "LMS User 34",
+   "modified": "2026-01-21T05:47:01",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10155,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "GMO",
+    "MSO"
+   ],
+   "products": [
+    "Simponi",
+    "Remicade",
+    "Established Products"
+   ],
+   "comments": "ARMA effectiveness dashboard set-up for Simponi and Remicade. Strategic discussions with MSO and SASses for addition of these 2 products.",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-16T07:37:12",
+   "created_by": "LMS User 34",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10156,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Rybrevant",
+    "Lazertinib"
+   ],
+   "comments": "Virtual connect with still the current Global MAF study responsible physician from COCOON on: a) the new SRP as the current one has moved to Global Medical Affairs in Bladder Cancer for the MonRISE program (Erda-iDRS); b) COCOON LMS session speaker - session goals and SRP role on it, c) testimonial + future collaboration",
+   "feedback": "Agreed to have the current SRP + new SRP (taking over 20 Jan) in the session; planned 1h session starting with treatment safety management for Ami/Laz and focusing then in COCOON - from the study need to the patient impact + LMS local insights examples; for the testimonial suggestion to also reach out to GMAF for Gem-iDRS and have SRP as plan B; regular calls to discuss strategy for Erda-iDRS",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-16T11:48:05",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10157,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "JENA",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "WW PBRER One page discussion 19 Jan 2026",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-19T08:33:20",
+   "created_by": "LMS User 35",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10158,
+   "title": "PV Insights",
+   "region": "APAC",
+   "cluster": "South East Asia",
+   "country": "Thailand & LCM",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "RMP & (C)ARMAs"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "Yes",
+   "stakeholders": [
+    "Marketing",
+    "Sales"
+   ],
+   "products": [
+    "Spravato"
+   ],
+   "comments": "Due to the addition of new Sales Representatives to the local Spravato team in Jan-2026, LMS was invited by Marketing to present the Spravato RMP and ARMA to the local Marketing and Sales teams. This session aimed to ensure that new team members clearly understand the required Sales actions for effective implementation of the Spravato ARMA in Thailand. It also served as a valuable opportunity to remind and reinforce awareness among existing team members about the importance of ARMA.",
+   "feedback": "Positive feedback received during the meetimg that it helped new team member understabd what they need to do from this activity.",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-19T22:57:06",
+   "created_by": "LMS User 36",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10159,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Regional LMS",
+   "country": "EMEA Regional LMS",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "Aggreg. Reports",
+    "Core LMS Material"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Carvykti"
+   ],
+   "comments": "LMS Core Team presented latest Carvykti PBRER in Ciltacel EMEA Disease Team (EDT) call",
+   "feedback": "",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-20T04:42:45",
+   "created_by": "LMS User 37",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10160,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Regional LMS",
+   "country": "EMEA Regional LMS",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Presentation",
+   "content": [
+    "Aggreg. Reports",
+    "Safety Views",
+    "LMS Education"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "Darzalex core team co-lead joined the MAF functional network on 20 jan 2026 and shared a 20 min presetation including the following:\n1- LMS who we are (Referesher)\n2- Safety views of darzalex for 2025\n3-summary of PBRER DLP 15 nov 2025",
+   "feedback": "positive feedback received on the overview",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-20T06:45:51",
+   "created_by": "LMS User 17",
+   "modified": "2026-01-21T05:47:01",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10161,
+   "title": "PV Insights",
+   "region": "EMEA",
+   "cluster": "Emerging Markets",
+   "country": "NEMA",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Material",
+   "content": [
+    "Aggreg. Reports"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "Darzalex/ Dalinvi"
+   ],
+   "comments": "Summary of PBRER DLP 15 nov 2025 of darzalex shared with MSLs and NEMA medical advisor\nhighlighting that no new signal during this period, no action taken for safety reason and addition of 2 ADRs (weight decreased and hypotension)",
+   "feedback": "no feedback received",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-20T07:07:21",
+   "created_by": "LMS User 17",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  },
+  {
+   "id": 10162,
+   "title": "PV Insights",
+   "region": "Global",
+   "cluster": "Global LMS",
+   "country": "Global LMS",
+   "year": "2026",
+   "quarter": "Q1",
+   "activity_type": "Discussion",
+   "content": [
+    "Other Safety Insights"
+   ],
+   "specific_icsr": "",
+   "stakeholder_request": "No",
+   "stakeholders": [
+    "MAF"
+   ],
+   "products": [
+    "TAR-200"
+   ],
+   "comments": "Virtual meeting with GMAL Gem-iDRS (previously known as TAR-200) to discuss:\na) training program for Gem-iDRS and plans for procedures specific training\nb) Local Medical Safety f2f meeting in Feb and collaboration video (suggestion to connect on this topic raised by GMA Lung Cancer)",
+   "feedback": "Follow-up call schedules to Friday - 23 Jan - for the video recording on collaboration",
+   "material_external": "No",
+   "product_launch": "No",
+   "created": "2026-01-20T12:55:02",
+   "created_by": "LMS User 26",
+   "modified": "2026-01-21T05:47:00",
+   "modified_by": "LMS User 02"
+  }
+ ]
+}
