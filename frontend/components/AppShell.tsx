@@ -32,10 +32,20 @@ const SEVERITY: Record<string, string> = {
   info: 'bg-navy',
 };
 
-function NotificationList({ items, onDismiss, onNavigate }: { items: Notification[]; onDismiss: (id: string) => void; onNavigate: () => void }) {
+function NotificationList({
+  items,
+  onDismiss,
+  onNavigate,
+  grid = false,
+}: {
+  items: Notification[];
+  onDismiss: (id: string) => void;
+  onNavigate: () => void;
+  grid?: boolean;
+}) {
   if (!items.length) return <div className="p-4 text-sm text-ink-soft">You're all caught up.</div>;
   return (
-    <div className="p-2 space-y-1.5">
+    <div className={grid ? 'p-2 grid gap-2 md:grid-cols-2' : 'p-2 space-y-1.5'}>
       {items.map((n) => (
         <div key={n.id} className="relative pl-5 pr-4 py-3 rounded-xl bg-white/70 hover:bg-white transition">
           <span className={`absolute left-2 top-3.5 bottom-3.5 w-1 rounded-full ${SEVERITY[n.severity]}`} />
@@ -184,7 +194,7 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
 
       {popup && (
         <div className="fixed inset-0 z-50 bg-black/25 backdrop-blur-sm flex items-center justify-center p-4 animate-fade-in" onClick={() => setPopup(false)}>
-          <div className="glass-strong rounded-3xl w-full max-w-lg overflow-hidden animate-scale-in" onClick={(e) => e.stopPropagation()}>
+          <div className="glass-strong rounded-3xl w-full max-w-5xl overflow-hidden animate-scale-in" onClick={(e) => e.stopPropagation()}>
             <div className="relative px-6 pt-6 pb-4 bg-gradient-to-br from-brand-soft via-white/40 to-transparent">
               <div className="w-11 h-11 rounded-2xl bg-gradient-to-br from-[#ff4a2e] to-brand text-white flex items-center justify-center shadow-[0_8px_18px_-8px_rgb(235_23_0/0.8)] mb-3">
                 <Bell className="w-5 h-5" />
@@ -195,8 +205,8 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
                 <X className="w-5 h-5" />
               </button>
             </div>
-            <div className="max-h-[55vh] overflow-auto px-3 stagger">
-              <NotificationList items={active.slice(0, 6)} onDismiss={dismiss} onNavigate={() => setPopup(false)} />
+            <div className="max-h-[70vh] overflow-auto px-3 stagger">
+              <NotificationList items={active} onDismiss={dismiss} onNavigate={() => setPopup(false)} grid />
             </div>
             <div className="px-6 py-4 flex justify-end">
               <button className="btn-primary" onClick={() => setPopup(false)}>
