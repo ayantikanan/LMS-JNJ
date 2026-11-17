@@ -62,13 +62,20 @@ Frontend: `NEXT_PUBLIC_API_BASE` (default `http://127.0.0.1:8010`), see `fronten
 
 ## Demo profiles
 
+The login page offers three profiles:
+
 | Profile | Scope | What it shows |
 |---|---|---|
 | Sofie Brunner, LMS Lead Alpines | Local · Alpines · Oncology | Default view filtered to Oncology; can add/edit Alpines records; "discussed elsewhere" topics from other countries (counts only) |
-| Dr. Lena Vogel, EMEA Safety Head | Regional · EMEA | Region drill starts at clusters; B/R request alerts; EMEA report |
 | Dr. Marco Rinaldi, Global RML Immunology | Global · Immunology | Immunology default view, Immunology materials and requests |
-| Mei Lin Tan, LMS Manager SEA | Regional · South East Asia cluster | Cluster-only data |
 | LMS ID Team | Admin | Everything, can delete |
+
+Two regional profiles still exist in the backend (seed data, access scoping and tests use them) but are **not offered at login**. They are hidden in `frontend/app/login/page.tsx` (`HIDDEN_PROFILES`):
+
+| Profile (backend only) | Id | Scope |
+|---|---|---|
+| Dr. Lena Vogel, EMEA Safety Head | `u_emea_head` | Regional · EMEA |
+| Mei Lin Tan, LMS Manager SEA | `u_apac_sea` | Regional · South East Asia cluster |
 
 **Suggested walkthrough:**
 
@@ -80,7 +87,7 @@ Frontend: `NEXT_PUBLIC_API_BASE` (default `http://127.0.0.1:8010`), see `fronten
 6. Open **Stakeholders → MAF**.
 7. In **Ask AI**, ask "What were the main safety topics for Erleada in 2025?".
 8. In **Reports**, export the Alpines report as PowerPoint.
-9. Log in as Lena and open **Statistics → Region-wise**. The chart starts at cluster level; drill into a cluster to see its countries.
+9. Log in as Marco (or LMS ID Team) and open **Statistics → Region-wise**. Click a region to drill into its clusters, then into a cluster to see its countries.
 
 ## Demo data (`backend/data/jnj_demo_data.json`)
 
