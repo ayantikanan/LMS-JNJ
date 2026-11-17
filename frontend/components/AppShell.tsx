@@ -45,7 +45,7 @@ function NotificationList({
 }) {
   if (!items.length) return <div className="p-4 text-sm text-ink-soft">You're all caught up.</div>;
   return (
-    <div className={grid ? 'p-2 grid gap-2 md:grid-cols-2' : 'p-2 space-y-1.5'}>
+    <div className={grid ? 'p-2 grid gap-2 lg:grid-cols-2' : 'p-2 space-y-1.5'}>
       {items.map((n) => (
         <div key={n.id} className="relative pl-5 pr-4 py-3 rounded-xl bg-white/70 hover:bg-white transition">
           <span className={`absolute left-2 top-3.5 bottom-3.5 w-1 rounded-full ${SEVERITY[n.severity]}`} />
