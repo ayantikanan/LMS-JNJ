@@ -9,14 +9,15 @@ import { ErrorBox, Skeleton } from '@/components/ui';
 
 const ICON: Record<string, typeof Globe2> = { Local: MapPin, Regional: Users, Global: Globe2 };
 
-// soft gradient banners for the profile cards (J&J red, navy/sky, warm)
+// soft gradient banners for the profile cards (J&J red, warm)
 const BANNERS = [
   'from-[#ff8a7a] via-[#fce6e3] to-[#eb1700]',
-  'from-[#69d0ff] via-[#e8f6ff] to-[#004585]',
   'from-[#f1efed] via-[#ffd9d2] to-[#ff7a66]',
-  'from-[#004585] via-[#9fdcff] to-[#fce6e3]',
   'from-[#a39992] via-[#f1efed] to-[#eb1700]',
 ];
+
+// Profiles not offered on the login page (the users still exist in the backend).
+const HIDDEN_PROFILES = new Set(['u_emea_head', 'u_apac_sea']);
 
 export default function LoginPage() {
   const { login } = useApp();
@@ -52,7 +53,7 @@ export default function LoginPage() {
           <ErrorBox error={error} />
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 stagger">
             {loading && [0, 1, 2].map((i) => <Skeleton key={i} className="h-64" />)}
-            {data?.map((u, i) => {
+            {data?.filter((u) => !HIDDEN_PROFILES.has(u.id)).map((u, i) => {
               const Icon = u.is_admin ? ShieldCheck : ICON[u.scope_level] || Users;
               const scope = u.countries.length ? u.countries.join(', ') : u.clusters.length ? u.clusters.join(', ') : u.regions.length ? u.regions.join(', ') : 'All regions';
               return (
